@@ -2,7 +2,7 @@ from ast import Pass
 import requests
 import json
 import pandas as pd
-from testDAO import populationDAO
+from DAO import populationDAO
 
 urlBegining = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/"
 urlEnd = "/JSON-stat/2.0/en"

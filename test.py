@@ -1,4 +1,4 @@
-from DAO import studentDAO
+from dump.DAO import studentDAO
 
 #create
 latestid = studentDAO.create(('mark', 45))
