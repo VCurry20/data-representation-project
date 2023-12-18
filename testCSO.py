@@ -2,6 +2,7 @@ from ast import Pass
 import requests
 import json
 import pandas as pd
+from testDAO import populationDAO
 
 urlBegining = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/"
 urlEnd = "/JSON-stat/2.0/en"
@@ -18,6 +19,9 @@ def getAll(dataset):
 def getFormattedAsFile(dataset):
     with open("cso-formatted.json", "wt") as fp:
         print(json.dumps(getFormatted(dataset)), file=fp)
+
+#df = pd.read_json('cso-formatted.json')
+#df
   
 
 def getFormatted(dataset):
@@ -60,14 +64,21 @@ def getFormatted(dataset):
                         currentId = ids[4]
                         index = dimensions[currentId]["category"]["index"][dim4]
                         label4 = dimensions[currentId]["category"]["label"][index]
-                        print("\t\t\t",label4, " ", values[valuecount])
+                        #print("\t\t\t",label4, " ", values[valuecount])
 
-                        result[label0][label1][label2][label3][label4]= values[valuecount]
+                        result[label0][label1][label2][label3][label4]= int(values[valuecount])
+
+                        db_values = (label1, label2, label3, label4, int(values[valuecount]) )
+                        populationDAO.create(db_values)
+
+
+
                         valuecount+=1
 
         
     return result
     
+
 
 
 if __name__ == "__main__":
