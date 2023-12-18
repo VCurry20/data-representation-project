@@ -1,0 +1,3916 @@
+{
+    "Population": {
+        "2011": {
+            "State": {
+                "All marital status": {
+                    "Both sexes": 4588252.0,
+                    "Male": 2272699.0,
+                    "Female": 2315553.0
+                },
+                "Single": {
+                    "Both sexes": 2484625.0,
+                    "Male": 1285612.0,
+                    "Female": 1199013.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 1655906.0,
+                    "Male": 825764.0,
+                    "Female": 830142.0
+                },
+                "Re-married": {
+                    "Both sexes": 52698.0,
+                    "Male": 29323.0,
+                    "Female": 23375.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 116194.0,
+                    "Male": 50833.0,
+                    "Female": 65361.0
+                },
+                "Divorced": {
+                    "Both sexes": 87770.0,
+                    "Male": 38085.0,
+                    "Female": 49685.0
+                },
+                "Widowed": {
+                    "Both sexes": 191059.0,
+                    "Male": 43082.0,
+                    "Female": 147977.0
+                }
+            },
+            "Carlow": {
+                "All marital status": {
+                    "Both sexes": 54612.0,
+                    "Male": 27431.0,
+                    "Female": 27181.0
+                },
+                "Single": {
+                    "Both sexes": 29158.0,
+                    "Male": 15430.0,
+                    "Female": 13728.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 19937.0,
+                    "Male": 9980.0,
+                    "Female": 9957.0
+                },
+                "Re-married": {
+                    "Both sexes": 650.0,
+                    "Male": 354.0,
+                    "Female": 296.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 1515.0,
+                    "Male": 648.0,
+                    "Female": 867.0
+                },
+                "Divorced": {
+                    "Both sexes": 1094.0,
+                    "Male": 483.0,
+                    "Female": 611.0
+                },
+                "Widowed": {
+                    "Both sexes": 2258.0,
+                    "Male": 536.0,
+                    "Female": 1722.0
+                }
+            },
+            "Dublin City": {
+                "All marital status": {
+                    "Both sexes": 527612.0,
+                    "Male": 257303.0,
+                    "Female": 270309.0
+                },
+                "Single": {
+                    "Both sexes": 320199.0,
+                    "Male": 160329.0,
+                    "Female": 159870.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 151753.0,
+                    "Male": 76173.0,
+                    "Female": 75580.0
+                },
+                "Re-married": {
+                    "Both sexes": 5087.0,
+                    "Male": 2924.0,
+                    "Female": 2163.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 14713.0,
+                    "Male": 6721.0,
+                    "Female": 7992.0
+                },
+                "Divorced": {
+                    "Both sexes": 11042.0,
+                    "Male": 5043.0,
+                    "Female": 5999.0
+                },
+                "Widowed": {
+                    "Both sexes": 24818.0,
+                    "Male": 6113.0,
+                    "Female": 18705.0
+                }
+            },
+            "D\u00fan Laoghaire-Rathdown": {
+                "All marital status": {
+                    "Both sexes": 206261.0,
+                    "Male": 98567.0,
+                    "Female": 107694.0
+                },
+                "Single": {
+                    "Both sexes": 108775.0,
+                    "Male": 53656.0,
+                    "Female": 55119.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 77122.0,
+                    "Male": 38091.0,
+                    "Female": 39031.0
+                },
+                "Re-married": {
+                    "Both sexes": 2623.0,
+                    "Male": 1555.0,
+                    "Female": 1068.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 4738.0,
+                    "Male": 1888.0,
+                    "Female": 2850.0
+                },
+                "Divorced": {
+                    "Both sexes": 3861.0,
+                    "Male": 1436.0,
+                    "Female": 2425.0
+                },
+                "Widowed": {
+                    "Both sexes": 9142.0,
+                    "Male": 1941.0,
+                    "Female": 7201.0
+                }
+            },
+            "Fingal": {
+                "All marital status": {
+                    "Both sexes": 273991.0,
+                    "Male": 134488.0,
+                    "Female": 139503.0
+                },
+                "Single": {
+                    "Both sexes": 150728.0,
+                    "Male": 75879.0,
+                    "Female": 74849.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 100616.0,
+                    "Male": 50060.0,
+                    "Female": 50556.0
+                },
+                "Re-married": {
+                    "Both sexes": 3286.0,
+                    "Male": 1906.0,
+                    "Female": 1380.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 6757.0,
+                    "Male": 2703.0,
+                    "Female": 4054.0
+                },
+                "Divorced": {
+                    "Both sexes": 5578.0,
+                    "Male": 2220.0,
+                    "Female": 3358.0
+                },
+                "Widowed": {
+                    "Both sexes": 7026.0,
+                    "Male": 1720.0,
+                    "Female": 5306.0
+                }
+            },
+            "South Dublin": {
+                "All marital status": {
+                    "Both sexes": 265205.0,
+                    "Male": 129544.0,
+                    "Female": 135661.0
+                },
+                "Single": {
+                    "Both sexes": 147720.0,
+                    "Male": 74302.0,
+                    "Female": 73418.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 94567.0,
+                    "Male": 47136.0,
+                    "Female": 47431.0
+                },
+                "Re-married": {
+                    "Both sexes": 2771.0,
+                    "Male": 1590.0,
+                    "Female": 1181.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 6951.0,
+                    "Male": 2598.0,
+                    "Female": 4353.0
+                },
+                "Divorced": {
+                    "Both sexes": 4976.0,
+                    "Male": 1930.0,
+                    "Female": 3046.0
+                },
+                "Widowed": {
+                    "Both sexes": 8220.0,
+                    "Male": 1988.0,
+                    "Female": 6232.0
+                }
+            },
+            "Kildare": {
+                "All marital status": {
+                    "Both sexes": 210312.0,
+                    "Male": 104658.0,
+                    "Female": 105654.0
+                },
+                "Single": {
+                    "Both sexes": 113951.0,
+                    "Male": 58773.0,
+                    "Female": 55178.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 78393.0,
+                    "Male": 39093.0,
+                    "Female": 39300.0
+                },
+                "Re-married": {
+                    "Both sexes": 2504.0,
+                    "Male": 1428.0,
+                    "Female": 1076.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 5230.0,
+                    "Male": 2238.0,
+                    "Female": 2992.0
+                },
+                "Divorced": {
+                    "Both sexes": 3677.0,
+                    "Male": 1547.0,
+                    "Female": 2130.0
+                },
+                "Widowed": {
+                    "Both sexes": 6557.0,
+                    "Male": 1579.0,
+                    "Female": 4978.0
+                }
+            },
+            "Kilkenny": {
+                "All marital status": {
+                    "Both sexes": 95419.0,
+                    "Male": 47788.0,
+                    "Female": 47631.0
+                },
+                "Single": {
+                    "Both sexes": 49959.0,
+                    "Male": 26292.0,
+                    "Female": 23667.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 36430.0,
+                    "Male": 18186.0,
+                    "Female": 18244.0
+                },
+                "Re-married": {
+                    "Both sexes": 1073.0,
+                    "Male": 600.0,
+                    "Female": 473.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 2284.0,
+                    "Male": 1053.0,
+                    "Female": 1231.0
+                },
+                "Divorced": {
+                    "Both sexes": 1639.0,
+                    "Male": 733.0,
+                    "Female": 906.0
+                },
+                "Widowed": {
+                    "Both sexes": 4034.0,
+                    "Male": 924.0,
+                    "Female": 3110.0
+                }
+            },
+            "Laois": {
+                "All marital status": {
+                    "Both sexes": 80559.0,
+                    "Male": 40587.0,
+                    "Female": 39972.0
+                },
+                "Single": {
+                    "Both sexes": 43667.0,
+                    "Male": 22990.0,
+                    "Female": 20677.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 29460.0,
+                    "Male": 14753.0,
+                    "Female": 14707.0
+                },
+                "Re-married": {
+                    "Both sexes": 922.0,
+                    "Male": 515.0,
+                    "Female": 407.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 2106.0,
+                    "Male": 983.0,
+                    "Female": 1123.0
+                },
+                "Divorced": {
+                    "Both sexes": 1425.0,
+                    "Male": 660.0,
+                    "Female": 765.0
+                },
+                "Widowed": {
+                    "Both sexes": 2979.0,
+                    "Male": 686.0,
+                    "Female": 2293.0
+                }
+            },
+            "Longford": {
+                "All marital status": {
+                    "Both sexes": 39000.0,
+                    "Male": 19649.0,
+                    "Female": 19351.0
+                },
+                "Single": {
+                    "Both sexes": 20552.0,
+                    "Male": 11054.0,
+                    "Female": 9498.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 14258.0,
+                    "Male": 7129.0,
+                    "Female": 7129.0
+                },
+                "Re-married": {
+                    "Both sexes": 460.0,
+                    "Male": 251.0,
+                    "Female": 209.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 1138.0,
+                    "Male": 484.0,
+                    "Female": 654.0
+                },
+                "Divorced": {
+                    "Both sexes": 766.0,
+                    "Male": 360.0,
+                    "Female": 406.0
+                },
+                "Widowed": {
+                    "Both sexes": 1826.0,
+                    "Male": 371.0,
+                    "Female": 1455.0
+                }
+            },
+            "Louth": {
+                "All marital status": {
+                    "Both sexes": 122897.0,
+                    "Male": 60763.0,
+                    "Female": 62134.0
+                },
+                "Single": {
+                    "Both sexes": 66604.0,
+                    "Male": 34416.0,
+                    "Female": 32188.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 43848.0,
+                    "Male": 21816.0,
+                    "Female": 22032.0
+                },
+                "Re-married": {
+                    "Both sexes": 1350.0,
+                    "Male": 736.0,
+                    "Female": 614.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 3612.0,
+                    "Male": 1545.0,
+                    "Female": 2067.0
+                },
+                "Divorced": {
+                    "Both sexes": 2539.0,
+                    "Male": 1098.0,
+                    "Female": 1441.0
+                },
+                "Widowed": {
+                    "Both sexes": 4944.0,
+                    "Male": 1152.0,
+                    "Female": 3792.0
+                }
+            },
+            "Meath": {
+                "All marital status": {
+                    "Both sexes": 184135.0,
+                    "Male": 91910.0,
+                    "Female": 92225.0
+                },
+                "Single": {
+                    "Both sexes": 96878.0,
+                    "Male": 50404.0,
+                    "Female": 46474.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 71377.0,
+                    "Male": 35541.0,
+                    "Female": 35836.0
+                },
+                "Re-married": {
+                    "Both sexes": 2224.0,
+                    "Male": 1279.0,
+                    "Female": 945.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 4653.0,
+                    "Male": 2024.0,
+                    "Female": 2629.0
+                },
+                "Divorced": {
+                    "Both sexes": 3173.0,
+                    "Male": 1363.0,
+                    "Female": 1810.0
+                },
+                "Widowed": {
+                    "Both sexes": 5830.0,
+                    "Male": 1299.0,
+                    "Female": 4531.0
+                }
+            },
+            "Offaly": {
+                "All marital status": {
+                    "Both sexes": 76687.0,
+                    "Male": 38430.0,
+                    "Female": 38257.0
+                },
+                "Single": {
+                    "Both sexes": 40221.0,
+                    "Male": 21253.0,
+                    "Female": 18968.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 28982.0,
+                    "Male": 14543.0,
+                    "Female": 14439.0
+                },
+                "Re-married": {
+                    "Both sexes": 772.0,
+                    "Male": 398.0,
+                    "Female": 374.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 2058.0,
+                    "Male": 909.0,
+                    "Female": 1149.0
+                },
+                "Divorced": {
+                    "Both sexes": 1340.0,
+                    "Male": 587.0,
+                    "Female": 753.0
+                },
+                "Widowed": {
+                    "Both sexes": 3314.0,
+                    "Male": 740.0,
+                    "Female": 2574.0
+                }
+            },
+            "Westmeath": {
+                "All marital status": {
+                    "Both sexes": 86164.0,
+                    "Male": 42783.0,
+                    "Female": 43381.0
+                },
+                "Single": {
+                    "Both sexes": 46248.0,
+                    "Male": 24094.0,
+                    "Female": 22154.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 31295.0,
+                    "Male": 15621.0,
+                    "Female": 15674.0
+                },
+                "Re-married": {
+                    "Both sexes": 1027.0,
+                    "Male": 557.0,
+                    "Female": 470.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 2364.0,
+                    "Male": 1020.0,
+                    "Female": 1344.0
+                },
+                "Divorced": {
+                    "Both sexes": 1659.0,
+                    "Male": 747.0,
+                    "Female": 912.0
+                },
+                "Widowed": {
+                    "Both sexes": 3571.0,
+                    "Male": 744.0,
+                    "Female": 2827.0
+                }
+            },
+            "Wexford": {
+                "All marital status": {
+                    "Both sexes": 145320.0,
+                    "Male": 71909.0,
+                    "Female": 73411.0
+                },
+                "Single": {
+                    "Both sexes": 75774.0,
+                    "Male": 39239.0,
+                    "Female": 36535.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 53516.0,
+                    "Male": 26611.0,
+                    "Female": 26905.0
+                },
+                "Re-married": {
+                    "Both sexes": 2207.0,
+                    "Male": 1235.0,
+                    "Female": 972.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 4305.0,
+                    "Male": 1935.0,
+                    "Female": 2370.0
+                },
+                "Divorced": {
+                    "Both sexes": 3132.0,
+                    "Male": 1387.0,
+                    "Female": 1745.0
+                },
+                "Widowed": {
+                    "Both sexes": 6386.0,
+                    "Male": 1502.0,
+                    "Female": 4884.0
+                }
+            },
+            "Wicklow": {
+                "All marital status": {
+                    "Both sexes": 136640.0,
+                    "Male": 67542.0,
+                    "Female": 69098.0
+                },
+                "Single": {
+                    "Both sexes": 71882.0,
+                    "Male": 37052.0,
+                    "Female": 34830.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 50636.0,
+                    "Male": 25125.0,
+                    "Female": 25511.0
+                },
+                "Re-married": {
+                    "Both sexes": 1960.0,
+                    "Male": 1128.0,
+                    "Female": 832.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 3991.0,
+                    "Male": 1808.0,
+                    "Female": 2183.0
+                },
+                "Divorced": {
+                    "Both sexes": 2955.0,
+                    "Male": 1267.0,
+                    "Female": 1688.0
+                },
+                "Widowed": {
+                    "Both sexes": 5216.0,
+                    "Male": 1162.0,
+                    "Female": 4054.0
+                }
+            },
+            "Clare": {
+                "All marital status": {
+                    "Both sexes": 117196.0,
+                    "Male": 58298.0,
+                    "Female": 58898.0
+                },
+                "Single": {
+                    "Both sexes": 60565.0,
+                    "Male": 31716.0,
+                    "Female": 28849.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 44584.0,
+                    "Male": 22199.0,
+                    "Female": 22385.0
+                },
+                "Re-married": {
+                    "Both sexes": 1657.0,
+                    "Male": 905.0,
+                    "Female": 752.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 2871.0,
+                    "Male": 1294.0,
+                    "Female": 1577.0
+                },
+                "Divorced": {
+                    "Both sexes": 2252.0,
+                    "Male": 972.0,
+                    "Female": 1280.0
+                },
+                "Widowed": {
+                    "Both sexes": 5267.0,
+                    "Male": 1212.0,
+                    "Female": 4055.0
+                }
+            },
+            "Cork City and Cork County": {
+                "All marital status": {
+                    "Both sexes": 519032.0,
+                    "Male": 257470.0,
+                    "Female": 261562.0
+                },
+                "Single": {
+                    "Both sexes": 277591.0,
+                    "Male": 144286.0,
+                    "Female": 133305.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 191293.0,
+                    "Male": 95375.0,
+                    "Female": 95918.0
+                },
+                "Re-married": {
+                    "Both sexes": 5845.0,
+                    "Male": 3190.0,
+                    "Female": 2655.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 11895.0,
+                    "Male": 5256.0,
+                    "Female": 6639.0
+                },
+                "Divorced": {
+                    "Both sexes": 9986.0,
+                    "Male": 4340.0,
+                    "Female": 5646.0
+                },
+                "Widowed": {
+                    "Both sexes": 22422.0,
+                    "Male": 5023.0,
+                    "Female": 17399.0
+                }
+            },
+            "Kerry": {
+                "All marital status": {
+                    "Both sexes": 145502.0,
+                    "Male": 72629.0,
+                    "Female": 72873.0
+                },
+                "Single": {
+                    "Both sexes": 74214.0,
+                    "Male": 39315.0,
+                    "Female": 34899.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 55998.0,
+                    "Male": 27942.0,
+                    "Female": 28056.0
+                },
+                "Re-married": {
+                    "Both sexes": 1916.0,
+                    "Male": 1031.0,
+                    "Female": 885.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 3377.0,
+                    "Male": 1514.0,
+                    "Female": 1863.0
+                },
+                "Divorced": {
+                    "Both sexes": 2866.0,
+                    "Male": 1278.0,
+                    "Female": 1588.0
+                },
+                "Widowed": {
+                    "Both sexes": 7131.0,
+                    "Male": 1549.0,
+                    "Female": 5582.0
+                }
+            },
+            "Limerick City and County": {
+                "All marital status": {
+                    "Both sexes": 191809.0,
+                    "Male": 95815.0,
+                    "Female": 95994.0
+                },
+                "Single": {
+                    "Both sexes": 104619.0,
+                    "Male": 54944.0,
+                    "Female": 49675.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 68578.0,
+                    "Male": 34320.0,
+                    "Female": 34258.0
+                },
+                "Re-married": {
+                    "Both sexes": 1851.0,
+                    "Male": 975.0,
+                    "Female": 876.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 4930.0,
+                    "Male": 2193.0,
+                    "Female": 2737.0
+                },
+                "Divorced": {
+                    "Both sexes": 3319.0,
+                    "Male": 1501.0,
+                    "Female": 1818.0
+                },
+                "Widowed": {
+                    "Both sexes": 8512.0,
+                    "Male": 1882.0,
+                    "Female": 6630.0
+                }
+            },
+            "Tipperary": {
+                "All marital status": {
+                    "Both sexes": 158754.0,
+                    "Male": 79584.0,
+                    "Female": 79170.0
+                },
+                "Single": {
+                    "Both sexes": 82703.0,
+                    "Male": 44100.0,
+                    "Female": 38603.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 58839.0,
+                    "Male": 29375.0,
+                    "Female": 29464.0
+                },
+                "Re-married": {
+                    "Both sexes": 1870.0,
+                    "Male": 1004.0,
+                    "Female": 866.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 4420.0,
+                    "Male": 2004.0,
+                    "Female": 2416.0
+                },
+                "Divorced": {
+                    "Both sexes": 3057.0,
+                    "Male": 1421.0,
+                    "Female": 1636.0
+                },
+                "Widowed": {
+                    "Both sexes": 7865.0,
+                    "Male": 1680.0,
+                    "Female": 6185.0
+                }
+            },
+            "Waterford City and County": {
+                "All marital status": {
+                    "Both sexes": 113795.0,
+                    "Male": 56464.0,
+                    "Female": 57331.0
+                },
+                "Single": {
+                    "Both sexes": 60505.0,
+                    "Male": 31522.0,
+                    "Female": 28983.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 41090.0,
+                    "Male": 20463.0,
+                    "Female": 20627.0
+                },
+                "Re-married": {
+                    "Both sexes": 1498.0,
+                    "Male": 819.0,
+                    "Female": 679.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 3216.0,
+                    "Male": 1424.0,
+                    "Female": 1792.0
+                },
+                "Divorced": {
+                    "Both sexes": 2323.0,
+                    "Male": 1041.0,
+                    "Female": 1282.0
+                },
+                "Widowed": {
+                    "Both sexes": 5163.0,
+                    "Male": 1195.0,
+                    "Female": 3968.0
+                }
+            },
+            "Galway City": {
+                "All marital status": {
+                    "Both sexes": 75529.0,
+                    "Male": 36514.0,
+                    "Female": 39015.0
+                },
+                "Single": {
+                    "Both sexes": 47349.0,
+                    "Male": 23367.0,
+                    "Female": 23982.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 21857.0,
+                    "Male": 10914.0,
+                    "Female": 10943.0
+                },
+                "Re-married": {
+                    "Both sexes": 617.0,
+                    "Male": 340.0,
+                    "Female": 277.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 1668.0,
+                    "Male": 653.0,
+                    "Female": 1015.0
+                },
+                "Divorced": {
+                    "Both sexes": 1623.0,
+                    "Male": 663.0,
+                    "Female": 960.0
+                },
+                "Widowed": {
+                    "Both sexes": 2415.0,
+                    "Male": 577.0,
+                    "Female": 1838.0
+                }
+            },
+            "Galway County": {
+                "All marital status": {
+                    "Both sexes": 175124.0,
+                    "Male": 88244.0,
+                    "Female": 86880.0
+                },
+                "Single": {
+                    "Both sexes": 90405.0,
+                    "Male": 48438.0,
+                    "Female": 41967.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 68640.0,
+                    "Male": 34207.0,
+                    "Female": 34433.0
+                },
+                "Re-married": {
+                    "Both sexes": 1909.0,
+                    "Male": 1065.0,
+                    "Female": 844.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 3627.0,
+                    "Male": 1685.0,
+                    "Female": 1942.0
+                },
+                "Divorced": {
+                    "Both sexes": 2731.0,
+                    "Male": 1236.0,
+                    "Female": 1495.0
+                },
+                "Widowed": {
+                    "Both sexes": 7812.0,
+                    "Male": 1613.0,
+                    "Female": 6199.0
+                }
+            },
+            "Leitrim": {
+                "All marital status": {
+                    "Both sexes": 31798.0,
+                    "Male": 16144.0,
+                    "Female": 15654.0
+                },
+                "Single": {
+                    "Both sexes": 16073.0,
+                    "Male": 8806.0,
+                    "Female": 7267.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 12148.0,
+                    "Male": 6057.0,
+                    "Female": 6091.0
+                },
+                "Re-married": {
+                    "Both sexes": 491.0,
+                    "Male": 256.0,
+                    "Female": 235.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 761.0,
+                    "Male": 360.0,
+                    "Female": 401.0
+                },
+                "Divorced": {
+                    "Both sexes": 605.0,
+                    "Male": 291.0,
+                    "Female": 314.0
+                },
+                "Widowed": {
+                    "Both sexes": 1720.0,
+                    "Male": 374.0,
+                    "Female": 1346.0
+                }
+            },
+            "Mayo": {
+                "All marital status": {
+                    "Both sexes": 130638.0,
+                    "Male": 65420.0,
+                    "Female": 65218.0
+                },
+                "Single": {
+                    "Both sexes": 66623.0,
+                    "Male": 35764.0,
+                    "Female": 30859.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 50126.0,
+                    "Male": 24946.0,
+                    "Female": 25180.0
+                },
+                "Re-married": {
+                    "Both sexes": 1558.0,
+                    "Male": 844.0,
+                    "Female": 714.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 2978.0,
+                    "Male": 1349.0,
+                    "Female": 1629.0
+                },
+                "Divorced": {
+                    "Both sexes": 2382.0,
+                    "Male": 1076.0,
+                    "Female": 1306.0
+                },
+                "Widowed": {
+                    "Both sexes": 6971.0,
+                    "Male": 1441.0,
+                    "Female": 5530.0
+                }
+            },
+            "Roscommon": {
+                "All marital status": {
+                    "Both sexes": 64065.0,
+                    "Male": 32353.0,
+                    "Female": 31712.0
+                },
+                "Single": {
+                    "Both sexes": 32210.0,
+                    "Male": 17493.0,
+                    "Female": 14717.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 24922.0,
+                    "Male": 12461.0,
+                    "Female": 12461.0
+                },
+                "Re-married": {
+                    "Both sexes": 856.0,
+                    "Male": 465.0,
+                    "Female": 391.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 1502.0,
+                    "Male": 722.0,
+                    "Female": 780.0
+                },
+                "Divorced": {
+                    "Both sexes": 1181.0,
+                    "Male": 548.0,
+                    "Female": 633.0
+                },
+                "Widowed": {
+                    "Both sexes": 3394.0,
+                    "Male": 664.0,
+                    "Female": 2730.0
+                }
+            },
+            "Sligo": {
+                "All marital status": {
+                    "Both sexes": 65393.0,
+                    "Male": 32435.0,
+                    "Female": 32958.0
+                },
+                "Single": {
+                    "Both sexes": 34918.0,
+                    "Male": 18248.0,
+                    "Female": 16670.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 23888.0,
+                    "Male": 11910.0,
+                    "Female": 11978.0
+                },
+                "Re-married": {
+                    "Both sexes": 719.0,
+                    "Male": 405.0,
+                    "Female": 314.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 1570.0,
+                    "Male": 707.0,
+                    "Female": 863.0
+                },
+                "Divorced": {
+                    "Both sexes": 1212.0,
+                    "Male": 547.0,
+                    "Female": 665.0
+                },
+                "Widowed": {
+                    "Both sexes": 3086.0,
+                    "Male": 618.0,
+                    "Female": 2468.0
+                }
+            },
+            "Cavan": {
+                "All marital status": {
+                    "Both sexes": 73183.0,
+                    "Male": 37013.0,
+                    "Female": 36170.0
+                },
+                "Single": {
+                    "Both sexes": 38419.0,
+                    "Male": 20671.0,
+                    "Female": 17748.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 27895.0,
+                    "Male": 13975.0,
+                    "Female": 13920.0
+                },
+                "Re-married": {
+                    "Both sexes": 804.0,
+                    "Male": 418.0,
+                    "Female": 386.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 1569.0,
+                    "Male": 700.0,
+                    "Female": 869.0
+                },
+                "Divorced": {
+                    "Both sexes": 1279.0,
+                    "Male": 566.0,
+                    "Female": 713.0
+                },
+                "Widowed": {
+                    "Both sexes": 3217.0,
+                    "Male": 683.0,
+                    "Female": 2534.0
+                }
+            },
+            "Donegal": {
+                "All marital status": {
+                    "Both sexes": 161137.0,
+                    "Male": 80523.0,
+                    "Female": 80614.0
+                },
+                "Single": {
+                    "Both sexes": 84655.0,
+                    "Male": 44840.0,
+                    "Female": 39815.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 60670.0,
+                    "Male": 30158.0,
+                    "Female": 30512.0
+                },
+                "Re-married": {
+                    "Both sexes": 1652.0,
+                    "Male": 895.0,
+                    "Female": 757.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 4013.0,
+                    "Male": 1781.0,
+                    "Female": 2232.0
+                },
+                "Divorced": {
+                    "Both sexes": 2949.0,
+                    "Male": 1282.0,
+                    "Female": 1667.0
+                },
+                "Widowed": {
+                    "Both sexes": 7198.0,
+                    "Male": 1567.0,
+                    "Female": 5631.0
+                }
+            },
+            "Monaghan": {
+                "All marital status": {
+                    "Both sexes": 60483.0,
+                    "Male": 30441.0,
+                    "Female": 30042.0
+                },
+                "Single": {
+                    "Both sexes": 31460.0,
+                    "Male": 16939.0,
+                    "Female": 14521.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 23188.0,
+                    "Male": 11604.0,
+                    "Female": 11584.0
+                },
+                "Re-married": {
+                    "Both sexes": 539.0,
+                    "Male": 255.0,
+                    "Female": 284.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 0.0,
+                    "Male": 0.0,
+                    "Female": 0.0
+                },
+                "Separated": {
+                    "Both sexes": 1382.0,
+                    "Male": 634.0,
+                    "Female": 748.0
+                },
+                "Divorced": {
+                    "Both sexes": 1149.0,
+                    "Male": 462.0,
+                    "Female": 687.0
+                },
+                "Widowed": {
+                    "Both sexes": 2765.0,
+                    "Male": 547.0,
+                    "Female": 2218.0
+                }
+            }
+        },
+        "2016": {
+            "State": {
+                "All marital status": {
+                    "Both sexes": 4761865.0,
+                    "Male": 2354428.0,
+                    "Female": 2407437.0
+                },
+                "Single": {
+                    "Both sexes": 2551414.0,
+                    "Male": 1314780.0,
+                    "Female": 1236634.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 1726196.0,
+                    "Male": 860005.0,
+                    "Female": 866191.0
+                },
+                "Re-married": {
+                    "Both sexes": 61729.0,
+                    "Male": 34583.0,
+                    "Female": 27146.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 4226.0,
+                    "Male": 2526.0,
+                    "Female": 1700.0
+                },
+                "Separated": {
+                    "Both sexes": 118178.0,
+                    "Male": 51615.0,
+                    "Female": 66563.0
+                },
+                "Divorced": {
+                    "Both sexes": 103895.0,
+                    "Male": 43309.0,
+                    "Female": 60586.0
+                },
+                "Widowed": {
+                    "Both sexes": 196227.0,
+                    "Male": 47610.0,
+                    "Female": 148617.0
+                }
+            },
+            "Carlow": {
+                "All marital status": {
+                    "Both sexes": 56932.0,
+                    "Male": 28465.0,
+                    "Female": 28467.0
+                },
+                "Single": {
+                    "Both sexes": 30376.0,
+                    "Male": 15971.0,
+                    "Female": 14405.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 20468.0,
+                    "Male": 10245.0,
+                    "Female": 10223.0
+                },
+                "Re-married": {
+                    "Both sexes": 738.0,
+                    "Male": 403.0,
+                    "Female": 335.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 29.0,
+                    "Male": 12.0,
+                    "Female": 17.0
+                },
+                "Separated": {
+                    "Both sexes": 1585.0,
+                    "Male": 696.0,
+                    "Female": 889.0
+                },
+                "Divorced": {
+                    "Both sexes": 1360.0,
+                    "Male": 557.0,
+                    "Female": 803.0
+                },
+                "Widowed": {
+                    "Both sexes": 2376.0,
+                    "Male": 581.0,
+                    "Female": 1795.0
+                }
+            },
+            "Dublin City": {
+                "All marital status": {
+                    "Both sexes": 554554.0,
+                    "Male": 272270.0,
+                    "Female": 282284.0
+                },
+                "Single": {
+                    "Both sexes": 333814.0,
+                    "Male": 167682.0,
+                    "Female": 166132.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 162955.0,
+                    "Male": 82068.0,
+                    "Female": 80887.0
+                },
+                "Re-married": {
+                    "Both sexes": 6198.0,
+                    "Male": 3551.0,
+                    "Female": 2647.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 1431.0,
+                    "Male": 1010.0,
+                    "Female": 421.0
+                },
+                "Separated": {
+                    "Both sexes": 13689.0,
+                    "Male": 6332.0,
+                    "Female": 7357.0
+                },
+                "Divorced": {
+                    "Both sexes": 12226.0,
+                    "Male": 5325.0,
+                    "Female": 6901.0
+                },
+                "Widowed": {
+                    "Both sexes": 24241.0,
+                    "Male": 6302.0,
+                    "Female": 17939.0
+                }
+            },
+            "D\u00fan Laoghaire-Rathdown": {
+                "All marital status": {
+                    "Both sexes": 218018.0,
+                    "Male": 104584.0,
+                    "Female": 113434.0
+                },
+                "Single": {
+                    "Both sexes": 113350.0,
+                    "Male": 56201.0,
+                    "Female": 57149.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 82495.0,
+                    "Male": 40663.0,
+                    "Female": 41832.0
+                },
+                "Re-married": {
+                    "Both sexes": 3047.0,
+                    "Male": 1839.0,
+                    "Female": 1208.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 239.0,
+                    "Male": 118.0,
+                    "Female": 121.0
+                },
+                "Separated": {
+                    "Both sexes": 4621.0,
+                    "Male": 1875.0,
+                    "Female": 2746.0
+                },
+                "Divorced": {
+                    "Both sexes": 4587.0,
+                    "Male": 1684.0,
+                    "Female": 2903.0
+                },
+                "Widowed": {
+                    "Both sexes": 9679.0,
+                    "Male": 2204.0,
+                    "Female": 7475.0
+                }
+            },
+            "Fingal": {
+                "All marital status": {
+                    "Both sexes": 296020.0,
+                    "Male": 145240.0,
+                    "Female": 150780.0
+                },
+                "Single": {
+                    "Both sexes": 160071.0,
+                    "Male": 80627.0,
+                    "Female": 79444.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 109696.0,
+                    "Male": 54606.0,
+                    "Female": 55090.0
+                },
+                "Re-married": {
+                    "Both sexes": 4274.0,
+                    "Male": 2492.0,
+                    "Female": 1782.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 279.0,
+                    "Male": 166.0,
+                    "Female": 113.0
+                },
+                "Separated": {
+                    "Both sexes": 6896.0,
+                    "Male": 2707.0,
+                    "Female": 4189.0
+                },
+                "Divorced": {
+                    "Both sexes": 6695.0,
+                    "Male": 2517.0,
+                    "Female": 4178.0
+                },
+                "Widowed": {
+                    "Both sexes": 8109.0,
+                    "Male": 2125.0,
+                    "Female": 5984.0
+                }
+            },
+            "South Dublin": {
+                "All marital status": {
+                    "Both sexes": 278767.0,
+                    "Male": 136277.0,
+                    "Female": 142490.0
+                },
+                "Single": {
+                    "Both sexes": 153372.0,
+                    "Male": 77274.0,
+                    "Female": 76098.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 99766.0,
+                    "Male": 49658.0,
+                    "Female": 50108.0
+                },
+                "Re-married": {
+                    "Both sexes": 3458.0,
+                    "Male": 1986.0,
+                    "Female": 1472.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 227.0,
+                    "Male": 106.0,
+                    "Female": 121.0
+                },
+                "Separated": {
+                    "Both sexes": 6723.0,
+                    "Male": 2548.0,
+                    "Female": 4175.0
+                },
+                "Divorced": {
+                    "Both sexes": 5862.0,
+                    "Male": 2221.0,
+                    "Female": 3641.0
+                },
+                "Widowed": {
+                    "Both sexes": 9359.0,
+                    "Male": 2484.0,
+                    "Female": 6875.0
+                }
+            },
+            "Kildare": {
+                "All marital status": {
+                    "Both sexes": 222504.0,
+                    "Male": 110546.0,
+                    "Female": 111958.0
+                },
+                "Single": {
+                    "Both sexes": 119379.0,
+                    "Male": 61394.0,
+                    "Female": 57985.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 83220.0,
+                    "Male": 41487.0,
+                    "Female": 41733.0
+                },
+                "Re-married": {
+                    "Both sexes": 2999.0,
+                    "Male": 1711.0,
+                    "Female": 1288.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 149.0,
+                    "Male": 77.0,
+                    "Female": 72.0
+                },
+                "Separated": {
+                    "Both sexes": 5382.0,
+                    "Male": 2285.0,
+                    "Female": 3097.0
+                },
+                "Divorced": {
+                    "Both sexes": 4425.0,
+                    "Male": 1790.0,
+                    "Female": 2635.0
+                },
+                "Widowed": {
+                    "Both sexes": 6950.0,
+                    "Male": 1802.0,
+                    "Female": 5148.0
+                }
+            },
+            "Kilkenny": {
+                "All marital status": {
+                    "Both sexes": 99232.0,
+                    "Male": 49533.0,
+                    "Female": 49699.0
+                },
+                "Single": {
+                    "Both sexes": 51261.0,
+                    "Male": 26835.0,
+                    "Female": 24426.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 37969.0,
+                    "Male": 18944.0,
+                    "Female": 19025.0
+                },
+                "Re-married": {
+                    "Both sexes": 1295.0,
+                    "Male": 706.0,
+                    "Female": 589.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 62.0,
+                    "Male": 32.0,
+                    "Female": 30.0
+                },
+                "Separated": {
+                    "Both sexes": 2444.0,
+                    "Male": 1109.0,
+                    "Female": 1335.0
+                },
+                "Divorced": {
+                    "Both sexes": 2020.0,
+                    "Male": 867.0,
+                    "Female": 1153.0
+                },
+                "Widowed": {
+                    "Both sexes": 4181.0,
+                    "Male": 1040.0,
+                    "Female": 3141.0
+                }
+            },
+            "Laois": {
+                "All marital status": {
+                    "Both sexes": 84697.0,
+                    "Male": 42811.0,
+                    "Female": 41886.0
+                },
+                "Single": {
+                    "Both sexes": 45545.0,
+                    "Male": 24060.0,
+                    "Female": 21485.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 30793.0,
+                    "Male": 15426.0,
+                    "Female": 15367.0
+                },
+                "Re-married": {
+                    "Both sexes": 1129.0,
+                    "Male": 630.0,
+                    "Female": 499.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 58.0,
+                    "Male": 39.0,
+                    "Female": 19.0
+                },
+                "Separated": {
+                    "Both sexes": 2326.0,
+                    "Male": 1075.0,
+                    "Female": 1251.0
+                },
+                "Divorced": {
+                    "Both sexes": 1784.0,
+                    "Male": 826.0,
+                    "Female": 958.0
+                },
+                "Widowed": {
+                    "Both sexes": 3062.0,
+                    "Male": 755.0,
+                    "Female": 2307.0
+                }
+            },
+            "Longford": {
+                "All marital status": {
+                    "Both sexes": 40873.0,
+                    "Male": 20587.0,
+                    "Female": 20286.0
+                },
+                "Single": {
+                    "Both sexes": 21405.0,
+                    "Male": 11458.0,
+                    "Female": 9947.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 14827.0,
+                    "Male": 7416.0,
+                    "Female": 7411.0
+                },
+                "Re-married": {
+                    "Both sexes": 554.0,
+                    "Male": 308.0,
+                    "Female": 246.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 20.0,
+                    "Male": 18.0,
+                    "Female": 2.0
+                },
+                "Separated": {
+                    "Both sexes": 1232.0,
+                    "Male": 559.0,
+                    "Female": 673.0
+                },
+                "Divorced": {
+                    "Both sexes": 928.0,
+                    "Male": 392.0,
+                    "Female": 536.0
+                },
+                "Widowed": {
+                    "Both sexes": 1907.0,
+                    "Male": 436.0,
+                    "Female": 1471.0
+                }
+            },
+            "Louth": {
+                "All marital status": {
+                    "Both sexes": 128884.0,
+                    "Male": 63633.0,
+                    "Female": 65251.0
+                },
+                "Single": {
+                    "Both sexes": 69546.0,
+                    "Male": 35809.0,
+                    "Female": 33737.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 45663.0,
+                    "Male": 22708.0,
+                    "Female": 22955.0
+                },
+                "Re-married": {
+                    "Both sexes": 1658.0,
+                    "Male": 919.0,
+                    "Female": 739.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 122.0,
+                    "Male": 76.0,
+                    "Female": 46.0
+                },
+                "Separated": {
+                    "Both sexes": 3811.0,
+                    "Male": 1615.0,
+                    "Female": 2196.0
+                },
+                "Divorced": {
+                    "Both sexes": 2971.0,
+                    "Male": 1230.0,
+                    "Female": 1741.0
+                },
+                "Widowed": {
+                    "Both sexes": 5113.0,
+                    "Male": 1276.0,
+                    "Female": 3837.0
+                }
+            },
+            "Meath": {
+                "All marital status": {
+                    "Both sexes": 195044.0,
+                    "Male": 96776.0,
+                    "Female": 98268.0
+                },
+                "Single": {
+                    "Both sexes": 101907.0,
+                    "Male": 52535.0,
+                    "Female": 49372.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 75066.0,
+                    "Male": 37332.0,
+                    "Female": 37734.0
+                },
+                "Re-married": {
+                    "Both sexes": 2634.0,
+                    "Male": 1495.0,
+                    "Female": 1139.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 116.0,
+                    "Male": 67.0,
+                    "Female": 49.0
+                },
+                "Separated": {
+                    "Both sexes": 4941.0,
+                    "Male": 2146.0,
+                    "Female": 2795.0
+                },
+                "Divorced": {
+                    "Both sexes": 4004.0,
+                    "Male": 1634.0,
+                    "Female": 2370.0
+                },
+                "Widowed": {
+                    "Both sexes": 6376.0,
+                    "Male": 1567.0,
+                    "Female": 4809.0
+                }
+            },
+            "Offaly": {
+                "All marital status": {
+                    "Both sexes": 77961.0,
+                    "Male": 38838.0,
+                    "Female": 39123.0
+                },
+                "Single": {
+                    "Both sexes": 40710.0,
+                    "Male": 21291.0,
+                    "Female": 19419.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 29187.0,
+                    "Male": 14599.0,
+                    "Female": 14588.0
+                },
+                "Re-married": {
+                    "Both sexes": 908.0,
+                    "Male": 485.0,
+                    "Female": 423.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 37.0,
+                    "Male": 24.0,
+                    "Female": 13.0
+                },
+                "Separated": {
+                    "Both sexes": 2179.0,
+                    "Male": 958.0,
+                    "Female": 1221.0
+                },
+                "Divorced": {
+                    "Both sexes": 1595.0,
+                    "Male": 675.0,
+                    "Female": 920.0
+                },
+                "Widowed": {
+                    "Both sexes": 3345.0,
+                    "Male": 806.0,
+                    "Female": 2539.0
+                }
+            },
+            "Westmeath": {
+                "All marital status": {
+                    "Both sexes": 88770.0,
+                    "Male": 44082.0,
+                    "Female": 44688.0
+                },
+                "Single": {
+                    "Both sexes": 47125.0,
+                    "Male": 24457.0,
+                    "Female": 22668.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 32305.0,
+                    "Male": 16096.0,
+                    "Female": 16209.0
+                },
+                "Re-married": {
+                    "Both sexes": 1136.0,
+                    "Male": 618.0,
+                    "Female": 518.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 48.0,
+                    "Male": 23.0,
+                    "Female": 25.0
+                },
+                "Separated": {
+                    "Both sexes": 2531.0,
+                    "Male": 1135.0,
+                    "Female": 1396.0
+                },
+                "Divorced": {
+                    "Both sexes": 2014.0,
+                    "Male": 866.0,
+                    "Female": 1148.0
+                },
+                "Widowed": {
+                    "Both sexes": 3611.0,
+                    "Male": 887.0,
+                    "Female": 2724.0
+                }
+            },
+            "Wexford": {
+                "All marital status": {
+                    "Both sexes": 149722.0,
+                    "Male": 73722.0,
+                    "Female": 76000.0
+                },
+                "Single": {
+                    "Both sexes": 77364.0,
+                    "Male": 39838.0,
+                    "Female": 37526.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 54683.0,
+                    "Male": 27154.0,
+                    "Female": 27529.0
+                },
+                "Re-married": {
+                    "Both sexes": 2506.0,
+                    "Male": 1386.0,
+                    "Female": 1120.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 90.0,
+                    "Male": 41.0,
+                    "Female": 49.0
+                },
+                "Separated": {
+                    "Both sexes": 4504.0,
+                    "Male": 2000.0,
+                    "Female": 2504.0
+                },
+                "Divorced": {
+                    "Both sexes": 3834.0,
+                    "Male": 1624.0,
+                    "Female": 2210.0
+                },
+                "Widowed": {
+                    "Both sexes": 6741.0,
+                    "Male": 1679.0,
+                    "Female": 5062.0
+                }
+            },
+            "Wicklow": {
+                "All marital status": {
+                    "Both sexes": 142425.0,
+                    "Male": 70156.0,
+                    "Female": 72269.0
+                },
+                "Single": {
+                    "Both sexes": 74084.0,
+                    "Male": 37881.0,
+                    "Female": 36203.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 53042.0,
+                    "Male": 26354.0,
+                    "Female": 26688.0
+                },
+                "Re-married": {
+                    "Both sexes": 2331.0,
+                    "Male": 1340.0,
+                    "Female": 991.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 127.0,
+                    "Male": 76.0,
+                    "Female": 51.0
+                },
+                "Separated": {
+                    "Both sexes": 3875.0,
+                    "Male": 1709.0,
+                    "Female": 2166.0
+                },
+                "Divorced": {
+                    "Both sexes": 3574.0,
+                    "Male": 1447.0,
+                    "Female": 2127.0
+                },
+                "Widowed": {
+                    "Both sexes": 5392.0,
+                    "Male": 1349.0,
+                    "Female": 4043.0
+                }
+            },
+            "Clare": {
+                "All marital status": {
+                    "Both sexes": 118817.0,
+                    "Male": 58785.0,
+                    "Female": 60032.0
+                },
+                "Single": {
+                    "Both sexes": 60474.0,
+                    "Male": 31462.0,
+                    "Female": 29012.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 45363.0,
+                    "Male": 22525.0,
+                    "Female": 22838.0
+                },
+                "Re-married": {
+                    "Both sexes": 1729.0,
+                    "Male": 965.0,
+                    "Female": 764.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 68.0,
+                    "Male": 30.0,
+                    "Female": 38.0
+                },
+                "Separated": {
+                    "Both sexes": 3151.0,
+                    "Male": 1408.0,
+                    "Female": 1743.0
+                },
+                "Divorced": {
+                    "Both sexes": 2674.0,
+                    "Male": 1133.0,
+                    "Female": 1541.0
+                },
+                "Widowed": {
+                    "Both sexes": 5358.0,
+                    "Male": 1262.0,
+                    "Female": 4096.0
+                }
+            },
+            "Cork City and Cork County": {
+                "All marital status": {
+                    "Both sexes": 542868.0,
+                    "Male": 268675.0,
+                    "Female": 274193.0
+                },
+                "Single": {
+                    "Both sexes": 289652.0,
+                    "Male": 149638.0,
+                    "Female": 140014.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 199255.0,
+                    "Male": 99250.0,
+                    "Female": 100005.0
+                },
+                "Re-married": {
+                    "Both sexes": 6838.0,
+                    "Male": 3783.0,
+                    "Female": 3055.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 324.0,
+                    "Male": 157.0,
+                    "Female": 167.0
+                },
+                "Separated": {
+                    "Both sexes": 12043.0,
+                    "Male": 5288.0,
+                    "Female": 6755.0
+                },
+                "Divorced": {
+                    "Both sexes": 12041.0,
+                    "Male": 5172.0,
+                    "Female": 6869.0
+                },
+                "Widowed": {
+                    "Both sexes": 22715.0,
+                    "Male": 5387.0,
+                    "Female": 17328.0
+                }
+            },
+            "Kerry": {
+                "All marital status": {
+                    "Both sexes": 147707.0,
+                    "Male": 73055.0,
+                    "Female": 74652.0
+                },
+                "Single": {
+                    "Both sexes": 73962.0,
+                    "Male": 38666.0,
+                    "Female": 35296.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 57205.0,
+                    "Male": 28450.0,
+                    "Female": 28755.0
+                },
+                "Re-married": {
+                    "Both sexes": 2179.0,
+                    "Male": 1159.0,
+                    "Female": 1020.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 76.0,
+                    "Male": 41.0,
+                    "Female": 35.0
+                },
+                "Separated": {
+                    "Both sexes": 3579.0,
+                    "Male": 1579.0,
+                    "Female": 2000.0
+                },
+                "Divorced": {
+                    "Both sexes": 3353.0,
+                    "Male": 1433.0,
+                    "Female": 1920.0
+                },
+                "Widowed": {
+                    "Both sexes": 7353.0,
+                    "Male": 1727.0,
+                    "Female": 5626.0
+                }
+            },
+            "Limerick City and County": {
+                "All marital status": {
+                    "Both sexes": 194899.0,
+                    "Male": 97340.0,
+                    "Female": 97559.0
+                },
+                "Single": {
+                    "Both sexes": 105067.0,
+                    "Male": 55132.0,
+                    "Female": 49935.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 70272.0,
+                    "Male": 35100.0,
+                    "Female": 35172.0
+                },
+                "Re-married": {
+                    "Both sexes": 2174.0,
+                    "Male": 1183.0,
+                    "Female": 991.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 126.0,
+                    "Male": 73.0,
+                    "Female": 53.0
+                },
+                "Separated": {
+                    "Both sexes": 4947.0,
+                    "Male": 2165.0,
+                    "Female": 2782.0
+                },
+                "Divorced": {
+                    "Both sexes": 3776.0,
+                    "Male": 1651.0,
+                    "Female": 2125.0
+                },
+                "Widowed": {
+                    "Both sexes": 8537.0,
+                    "Male": 2036.0,
+                    "Female": 6501.0
+                }
+            },
+            "Tipperary": {
+                "All marital status": {
+                    "Both sexes": 159553.0,
+                    "Male": 79668.0,
+                    "Female": 79885.0
+                },
+                "Single": {
+                    "Both sexes": 82365.0,
+                    "Male": 43648.0,
+                    "Female": 38717.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 59290.0,
+                    "Male": 29540.0,
+                    "Female": 29750.0
+                },
+                "Re-married": {
+                    "Both sexes": 2005.0,
+                    "Male": 1096.0,
+                    "Female": 909.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 70.0,
+                    "Male": 40.0,
+                    "Female": 30.0
+                },
+                "Separated": {
+                    "Both sexes": 4440.0,
+                    "Male": 2015.0,
+                    "Female": 2425.0
+                },
+                "Divorced": {
+                    "Both sexes": 3573.0,
+                    "Male": 1564.0,
+                    "Female": 2009.0
+                },
+                "Widowed": {
+                    "Both sexes": 7810.0,
+                    "Male": 1765.0,
+                    "Female": 6045.0
+                }
+            },
+            "Waterford City and County": {
+                "All marital status": {
+                    "Both sexes": 116176.0,
+                    "Male": 57651.0,
+                    "Female": 58525.0
+                },
+                "Single": {
+                    "Both sexes": 61065.0,
+                    "Male": 31845.0,
+                    "Female": 29220.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 41927.0,
+                    "Male": 20821.0,
+                    "Female": 21106.0
+                },
+                "Re-married": {
+                    "Both sexes": 1718.0,
+                    "Male": 958.0,
+                    "Female": 760.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 74.0,
+                    "Male": 48.0,
+                    "Female": 26.0
+                },
+                "Separated": {
+                    "Both sexes": 3274.0,
+                    "Male": 1456.0,
+                    "Female": 1818.0
+                },
+                "Divorced": {
+                    "Both sexes": 2813.0,
+                    "Male": 1184.0,
+                    "Female": 1629.0
+                },
+                "Widowed": {
+                    "Both sexes": 5305.0,
+                    "Male": 1339.0,
+                    "Female": 3966.0
+                }
+            },
+            "Galway City": {
+                "All marital status": {
+                    "Both sexes": 78668.0,
+                    "Male": 37800.0,
+                    "Female": 40868.0
+                },
+                "Single": {
+                    "Both sexes": 48141.0,
+                    "Male": 23617.0,
+                    "Female": 24524.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 23418.0,
+                    "Male": 11680.0,
+                    "Female": 11738.0
+                },
+                "Re-married": {
+                    "Both sexes": 845.0,
+                    "Male": 463.0,
+                    "Female": 382.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 87.0,
+                    "Male": 51.0,
+                    "Female": 36.0
+                },
+                "Separated": {
+                    "Both sexes": 1693.0,
+                    "Male": 685.0,
+                    "Female": 1008.0
+                },
+                "Divorced": {
+                    "Both sexes": 1901.0,
+                    "Male": 717.0,
+                    "Female": 1184.0
+                },
+                "Widowed": {
+                    "Both sexes": 2583.0,
+                    "Male": 587.0,
+                    "Female": 1996.0
+                }
+            },
+            "Galway County": {
+                "All marital status": {
+                    "Both sexes": 179390.0,
+                    "Male": 89863.0,
+                    "Female": 89527.0
+                },
+                "Single": {
+                    "Both sexes": 91121.0,
+                    "Male": 48373.0,
+                    "Female": 42748.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 71038.0,
+                    "Male": 35320.0,
+                    "Female": 35718.0
+                },
+                "Re-married": {
+                    "Both sexes": 2073.0,
+                    "Male": 1168.0,
+                    "Female": 905.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 101.0,
+                    "Male": 54.0,
+                    "Female": 47.0
+                },
+                "Separated": {
+                    "Both sexes": 3848.0,
+                    "Male": 1751.0,
+                    "Female": 2097.0
+                },
+                "Divorced": {
+                    "Both sexes": 3303.0,
+                    "Male": 1429.0,
+                    "Female": 1874.0
+                },
+                "Widowed": {
+                    "Both sexes": 7906.0,
+                    "Male": 1768.0,
+                    "Female": 6138.0
+                }
+            },
+            "Leitrim": {
+                "All marital status": {
+                    "Both sexes": 32044.0,
+                    "Male": 16064.0,
+                    "Female": 15980.0
+                },
+                "Single": {
+                    "Both sexes": 15921.0,
+                    "Male": 8545.0,
+                    "Female": 7376.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 12316.0,
+                    "Male": 6141.0,
+                    "Female": 6175.0
+                },
+                "Re-married": {
+                    "Both sexes": 541.0,
+                    "Male": 285.0,
+                    "Female": 256.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 17.0,
+                    "Male": 7.0,
+                    "Female": 10.0
+                },
+                "Separated": {
+                    "Both sexes": 796.0,
+                    "Male": 373.0,
+                    "Female": 423.0
+                },
+                "Divorced": {
+                    "Both sexes": 727.0,
+                    "Male": 332.0,
+                    "Female": 395.0
+                },
+                "Widowed": {
+                    "Both sexes": 1726.0,
+                    "Male": 381.0,
+                    "Female": 1345.0
+                }
+            },
+            "Mayo": {
+                "All marital status": {
+                    "Both sexes": 130507.0,
+                    "Male": 65047.0,
+                    "Female": 65460.0
+                },
+                "Single": {
+                    "Both sexes": 65426.0,
+                    "Male": 34810.0,
+                    "Female": 30616.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 50586.0,
+                    "Male": 25092.0,
+                    "Female": 25494.0
+                },
+                "Re-married": {
+                    "Both sexes": 1693.0,
+                    "Male": 950.0,
+                    "Female": 743.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 66.0,
+                    "Male": 36.0,
+                    "Female": 30.0
+                },
+                "Separated": {
+                    "Both sexes": 3158.0,
+                    "Male": 1409.0,
+                    "Female": 1749.0
+                },
+                "Divorced": {
+                    "Both sexes": 2784.0,
+                    "Male": 1205.0,
+                    "Female": 1579.0
+                },
+                "Widowed": {
+                    "Both sexes": 6794.0,
+                    "Male": 1545.0,
+                    "Female": 5249.0
+                }
+            },
+            "Roscommon": {
+                "All marital status": {
+                    "Both sexes": 64544.0,
+                    "Male": 32377.0,
+                    "Female": 32167.0
+                },
+                "Single": {
+                    "Both sexes": 31990.0,
+                    "Male": 17211.0,
+                    "Female": 14779.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 25192.0,
+                    "Male": 12556.0,
+                    "Female": 12636.0
+                },
+                "Re-married": {
+                    "Both sexes": 921.0,
+                    "Male": 480.0,
+                    "Female": 441.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 33.0,
+                    "Male": 21.0,
+                    "Female": 12.0
+                },
+                "Separated": {
+                    "Both sexes": 1637.0,
+                    "Male": 771.0,
+                    "Female": 866.0
+                },
+                "Divorced": {
+                    "Both sexes": 1380.0,
+                    "Male": 610.0,
+                    "Female": 770.0
+                },
+                "Widowed": {
+                    "Both sexes": 3391.0,
+                    "Male": 728.0,
+                    "Female": 2663.0
+                }
+            },
+            "Sligo": {
+                "All marital status": {
+                    "Both sexes": 65535.0,
+                    "Male": 32365.0,
+                    "Female": 33170.0
+                },
+                "Single": {
+                    "Both sexes": 34357.0,
+                    "Male": 17826.0,
+                    "Female": 16531.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 24225.0,
+                    "Male": 12023.0,
+                    "Female": 12202.0
+                },
+                "Re-married": {
+                    "Both sexes": 746.0,
+                    "Male": 420.0,
+                    "Female": 326.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 42.0,
+                    "Male": 23.0,
+                    "Female": 19.0
+                },
+                "Separated": {
+                    "Both sexes": 1713.0,
+                    "Male": 755.0,
+                    "Female": 958.0
+                },
+                "Divorced": {
+                    "Both sexes": 1375.0,
+                    "Male": 595.0,
+                    "Female": 780.0
+                },
+                "Widowed": {
+                    "Both sexes": 3077.0,
+                    "Male": 723.0,
+                    "Female": 2354.0
+                }
+            },
+            "Cavan": {
+                "All marital status": {
+                    "Both sexes": 76176.0,
+                    "Male": 38330.0,
+                    "Female": 37846.0
+                },
+                "Single": {
+                    "Both sexes": 39465.0,
+                    "Male": 21004.0,
+                    "Female": 18461.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 28991.0,
+                    "Male": 14503.0,
+                    "Female": 14488.0
+                },
+                "Re-married": {
+                    "Both sexes": 980.0,
+                    "Male": 519.0,
+                    "Female": 461.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 39.0,
+                    "Male": 22.0,
+                    "Female": 17.0
+                },
+                "Separated": {
+                    "Both sexes": 1758.0,
+                    "Male": 802.0,
+                    "Female": 956.0
+                },
+                "Divorced": {
+                    "Both sexes": 1652.0,
+                    "Male": 731.0,
+                    "Female": 921.0
+                },
+                "Widowed": {
+                    "Both sexes": 3291.0,
+                    "Male": 749.0,
+                    "Female": 2542.0
+                }
+            },
+            "Donegal": {
+                "All marital status": {
+                    "Both sexes": 159192.0,
+                    "Male": 79022.0,
+                    "Female": 80170.0
+                },
+                "Single": {
+                    "Both sexes": 81482.0,
+                    "Male": 42725.0,
+                    "Female": 38757.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 61272.0,
+                    "Male": 30404.0,
+                    "Female": 30868.0
+                },
+                "Re-married": {
+                    "Both sexes": 1866.0,
+                    "Male": 1011.0,
+                    "Female": 855.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 59.0,
+                    "Male": 30.0,
+                    "Female": 29.0
+                },
+                "Separated": {
+                    "Both sexes": 3979.0,
+                    "Male": 1769.0,
+                    "Female": 2210.0
+                },
+                "Divorced": {
+                    "Both sexes": 3362.0,
+                    "Male": 1385.0,
+                    "Female": 1977.0
+                },
+                "Widowed": {
+                    "Both sexes": 7172.0,
+                    "Male": 1698.0,
+                    "Female": 5474.0
+                }
+            },
+            "Monaghan": {
+                "All marital status": {
+                    "Both sexes": 61386.0,
+                    "Male": 30866.0,
+                    "Female": 30520.0
+                },
+                "Single": {
+                    "Both sexes": 31617.0,
+                    "Male": 16965.0,
+                    "Female": 14652.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 23711.0,
+                    "Male": 11844.0,
+                    "Female": 11867.0
+                },
+                "Re-married": {
+                    "Both sexes": 556.0,
+                    "Male": 274.0,
+                    "Female": 282.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 10.0,
+                    "Male": 8.0,
+                    "Female": 2.0
+                },
+                "Separated": {
+                    "Both sexes": 1423.0,
+                    "Male": 640.0,
+                    "Female": 783.0
+                },
+                "Divorced": {
+                    "Both sexes": 1302.0,
+                    "Male": 513.0,
+                    "Female": 789.0
+                },
+                "Widowed": {
+                    "Both sexes": 2767.0,
+                    "Male": 622.0,
+                    "Female": 2145.0
+                }
+            }
+        },
+        "2022": {
+            "State": {
+                "All marital status": {
+                    "Both sexes": 5149139.0,
+                    "Male": 2544549.0,
+                    "Female": 2604590.0
+                },
+                "Single": {
+                    "Both sexes": 2773334.0,
+                    "Male": 1425472.0,
+                    "Female": 1347862.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 1834699.0,
+                    "Male": 913371.0,
+                    "Female": 921328.0
+                },
+                "Re-married": {
+                    "Both sexes": 74564.0,
+                    "Male": 41449.0,
+                    "Female": 33115.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 3587.0,
+                    "Male": 2035.0,
+                    "Female": 1552.0
+                },
+                "Separated": {
+                    "Both sexes": 119452.0,
+                    "Male": 52382.0,
+                    "Female": 67070.0
+                },
+                "Divorced": {
+                    "Both sexes": 133420.0,
+                    "Male": 54923.0,
+                    "Female": 78497.0
+                },
+                "Widowed": {
+                    "Both sexes": 210083.0,
+                    "Male": 54917.0,
+                    "Female": 155166.0
+                }
+            },
+            "Carlow": {
+                "All marital status": {
+                    "Both sexes": 61968.0,
+                    "Male": 30822.0,
+                    "Female": 31146.0
+                },
+                "Single": {
+                    "Both sexes": 32942.0,
+                    "Male": 17173.0,
+                    "Female": 15769.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 21995.0,
+                    "Male": 10957.0,
+                    "Female": 11038.0
+                },
+                "Re-married": {
+                    "Both sexes": 953.0,
+                    "Male": 515.0,
+                    "Female": 438.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 32.0,
+                    "Male": 16.0,
+                    "Female": 16.0
+                },
+                "Separated": {
+                    "Both sexes": 1563.0,
+                    "Male": 722.0,
+                    "Female": 841.0
+                },
+                "Divorced": {
+                    "Both sexes": 1866.0,
+                    "Male": 752.0,
+                    "Female": 1114.0
+                },
+                "Widowed": {
+                    "Both sexes": 2617.0,
+                    "Male": 687.0,
+                    "Female": 1930.0
+                }
+            },
+            "Dublin City": {
+                "All marital status": {
+                    "Both sexes": 592713.0,
+                    "Male": 291796.0,
+                    "Female": 300917.0
+                },
+                "Single": {
+                    "Both sexes": 364631.0,
+                    "Male": 183308.0,
+                    "Female": 181323.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 168018.0,
+                    "Male": 84708.0,
+                    "Female": 83310.0
+                },
+                "Re-married": {
+                    "Both sexes": 7117.0,
+                    "Male": 4031.0,
+                    "Female": 3086.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 957.0,
+                    "Male": 670.0,
+                    "Female": 287.0
+                },
+                "Separated": {
+                    "Both sexes": 13633.0,
+                    "Male": 6419.0,
+                    "Female": 7214.0
+                },
+                "Divorced": {
+                    "Both sexes": 14862.0,
+                    "Male": 6361.0,
+                    "Female": 8501.0
+                },
+                "Widowed": {
+                    "Both sexes": 23495.0,
+                    "Male": 6299.0,
+                    "Female": 17196.0
+                }
+            },
+            "D\u00fan Laoghaire-Rathdown": {
+                "All marital status": {
+                    "Both sexes": 233860.0,
+                    "Male": 112032.0,
+                    "Female": 121828.0
+                },
+                "Single": {
+                    "Both sexes": 121238.0,
+                    "Male": 59864.0,
+                    "Female": 61374.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 88434.0,
+                    "Male": 43656.0,
+                    "Female": 44778.0
+                },
+                "Re-married": {
+                    "Both sexes": 3584.0,
+                    "Male": 2089.0,
+                    "Female": 1495.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 182.0,
+                    "Male": 84.0,
+                    "Female": 98.0
+                },
+                "Separated": {
+                    "Both sexes": 4503.0,
+                    "Male": 1816.0,
+                    "Female": 2687.0
+                },
+                "Divorced": {
+                    "Both sexes": 5738.0,
+                    "Male": 2077.0,
+                    "Female": 3661.0
+                },
+                "Widowed": {
+                    "Both sexes": 10181.0,
+                    "Male": 2446.0,
+                    "Female": 7735.0
+                }
+            },
+            "Fingal": {
+                "All marital status": {
+                    "Both sexes": 330506.0,
+                    "Male": 162532.0,
+                    "Female": 167974.0
+                },
+                "Single": {
+                    "Both sexes": 178746.0,
+                    "Male": 90582.0,
+                    "Female": 88164.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 120645.0,
+                    "Male": 60068.0,
+                    "Female": 60577.0
+                },
+                "Re-married": {
+                    "Both sexes": 5166.0,
+                    "Male": 2924.0,
+                    "Female": 2242.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 264.0,
+                    "Male": 144.0,
+                    "Female": 120.0
+                },
+                "Separated": {
+                    "Both sexes": 7449.0,
+                    "Male": 2962.0,
+                    "Female": 4487.0
+                },
+                "Divorced": {
+                    "Both sexes": 8515.0,
+                    "Male": 3218.0,
+                    "Female": 5297.0
+                },
+                "Widowed": {
+                    "Both sexes": 9721.0,
+                    "Male": 2634.0,
+                    "Female": 7087.0
+                }
+            },
+            "South Dublin": {
+                "All marital status": {
+                    "Both sexes": 301075.0,
+                    "Male": 147246.0,
+                    "Female": 153829.0
+                },
+                "Single": {
+                    "Both sexes": 165850.0,
+                    "Male": 83703.0,
+                    "Female": 82147.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 106112.0,
+                    "Male": 52823.0,
+                    "Female": 53289.0
+                },
+                "Re-married": {
+                    "Both sexes": 4018.0,
+                    "Male": 2283.0,
+                    "Female": 1735.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 243.0,
+                    "Male": 120.0,
+                    "Female": 123.0
+                },
+                "Separated": {
+                    "Both sexes": 6780.0,
+                    "Male": 2612.0,
+                    "Female": 4168.0
+                },
+                "Divorced": {
+                    "Both sexes": 7206.0,
+                    "Male": 2711.0,
+                    "Female": 4495.0
+                },
+                "Widowed": {
+                    "Both sexes": 10866.0,
+                    "Male": 2994.0,
+                    "Female": 7872.0
+                }
+            },
+            "Kildare": {
+                "All marital status": {
+                    "Both sexes": 247774.0,
+                    "Male": 123264.0,
+                    "Female": 124510.0
+                },
+                "Single": {
+                    "Both sexes": 132136.0,
+                    "Male": 68098.0,
+                    "Female": 64038.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 92452.0,
+                    "Male": 46095.0,
+                    "Female": 46357.0
+                },
+                "Re-married": {
+                    "Both sexes": 3620.0,
+                    "Male": 2078.0,
+                    "Female": 1542.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 135.0,
+                    "Male": 71.0,
+                    "Female": 64.0
+                },
+                "Separated": {
+                    "Both sexes": 5369.0,
+                    "Male": 2274.0,
+                    "Female": 3095.0
+                },
+                "Divorced": {
+                    "Both sexes": 6045.0,
+                    "Male": 2453.0,
+                    "Female": 3592.0
+                },
+                "Widowed": {
+                    "Both sexes": 8017.0,
+                    "Male": 2195.0,
+                    "Female": 5822.0
+                }
+            },
+            "Kilkenny": {
+                "All marital status": {
+                    "Both sexes": 104160.0,
+                    "Male": 51883.0,
+                    "Female": 52277.0
+                },
+                "Single": {
+                    "Both sexes": 53968.0,
+                    "Male": 28184.0,
+                    "Female": 25784.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 39224.0,
+                    "Male": 19462.0,
+                    "Female": 19762.0
+                },
+                "Re-married": {
+                    "Both sexes": 1496.0,
+                    "Male": 823.0,
+                    "Female": 673.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 34.0,
+                    "Male": 21.0,
+                    "Female": 13.0
+                },
+                "Separated": {
+                    "Both sexes": 2466.0,
+                    "Male": 1094.0,
+                    "Female": 1372.0
+                },
+                "Divorced": {
+                    "Both sexes": 2560.0,
+                    "Male": 1096.0,
+                    "Female": 1464.0
+                },
+                "Widowed": {
+                    "Both sexes": 4412.0,
+                    "Male": 1203.0,
+                    "Female": 3209.0
+                }
+            },
+            "Laois": {
+                "All marital status": {
+                    "Both sexes": 91877.0,
+                    "Male": 46278.0,
+                    "Female": 45599.0
+                },
+                "Single": {
+                    "Both sexes": 49404.0,
+                    "Male": 26008.0,
+                    "Female": 23396.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 32842.0,
+                    "Male": 16423.0,
+                    "Female": 16419.0
+                },
+                "Re-married": {
+                    "Both sexes": 1446.0,
+                    "Male": 784.0,
+                    "Female": 662.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 50.0,
+                    "Male": 30.0,
+                    "Female": 20.0
+                },
+                "Separated": {
+                    "Both sexes": 2449.0,
+                    "Male": 1125.0,
+                    "Female": 1324.0
+                },
+                "Divorced": {
+                    "Both sexes": 2357.0,
+                    "Male": 1052.0,
+                    "Female": 1305.0
+                },
+                "Widowed": {
+                    "Both sexes": 3329.0,
+                    "Male": 856.0,
+                    "Female": 2473.0
+                }
+            },
+            "Longford": {
+                "All marital status": {
+                    "Both sexes": 46751.0,
+                    "Male": 23449.0,
+                    "Female": 23302.0
+                },
+                "Single": {
+                    "Both sexes": 24352.0,
+                    "Male": 12889.0,
+                    "Female": 11463.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 16860.0,
+                    "Male": 8411.0,
+                    "Female": 8449.0
+                },
+                "Re-married": {
+                    "Both sexes": 728.0,
+                    "Male": 398.0,
+                    "Female": 330.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 42.0,
+                    "Male": 30.0,
+                    "Female": 12.0
+                },
+                "Separated": {
+                    "Both sexes": 1312.0,
+                    "Male": 598.0,
+                    "Female": 714.0
+                },
+                "Divorced": {
+                    "Both sexes": 1361.0,
+                    "Male": 594.0,
+                    "Female": 767.0
+                },
+                "Widowed": {
+                    "Both sexes": 2096.0,
+                    "Male": 529.0,
+                    "Female": 1567.0
+                }
+            },
+            "Louth": {
+                "All marital status": {
+                    "Both sexes": 139703.0,
+                    "Male": 68907.0,
+                    "Female": 70796.0
+                },
+                "Single": {
+                    "Both sexes": 75902.0,
+                    "Male": 38999.0,
+                    "Female": 36903.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 48178.0,
+                    "Male": 23976.0,
+                    "Female": 24202.0
+                },
+                "Re-married": {
+                    "Both sexes": 2134.0,
+                    "Male": 1162.0,
+                    "Female": 972.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 81.0,
+                    "Male": 45.0,
+                    "Female": 36.0
+                },
+                "Separated": {
+                    "Both sexes": 3820.0,
+                    "Male": 1603.0,
+                    "Female": 2217.0
+                },
+                "Divorced": {
+                    "Both sexes": 3905.0,
+                    "Male": 1560.0,
+                    "Female": 2345.0
+                },
+                "Widowed": {
+                    "Both sexes": 5683.0,
+                    "Male": 1562.0,
+                    "Female": 4121.0
+                }
+            },
+            "Meath": {
+                "All marital status": {
+                    "Both sexes": 220826.0,
+                    "Male": 109988.0,
+                    "Female": 110838.0
+                },
+                "Single": {
+                    "Both sexes": 116125.0,
+                    "Male": 60084.0,
+                    "Female": 56041.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 83281.0,
+                    "Male": 41550.0,
+                    "Female": 41731.0
+                },
+                "Re-married": {
+                    "Both sexes": 3441.0,
+                    "Male": 1944.0,
+                    "Female": 1497.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 109.0,
+                    "Male": 62.0,
+                    "Female": 47.0
+                },
+                "Separated": {
+                    "Both sexes": 5261.0,
+                    "Male": 2265.0,
+                    "Female": 2996.0
+                },
+                "Divorced": {
+                    "Both sexes": 5413.0,
+                    "Male": 2229.0,
+                    "Female": 3184.0
+                },
+                "Widowed": {
+                    "Both sexes": 7196.0,
+                    "Male": 1854.0,
+                    "Female": 5342.0
+                }
+            },
+            "Offaly": {
+                "All marital status": {
+                    "Both sexes": 83150.0,
+                    "Male": 41628.0,
+                    "Female": 41522.0
+                },
+                "Single": {
+                    "Both sexes": 43395.0,
+                    "Male": 22789.0,
+                    "Female": 20606.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 30736.0,
+                    "Male": 15400.0,
+                    "Female": 15336.0
+                },
+                "Re-married": {
+                    "Both sexes": 1119.0,
+                    "Male": 592.0,
+                    "Female": 527.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 46.0,
+                    "Male": 23.0,
+                    "Female": 23.0
+                },
+                "Separated": {
+                    "Both sexes": 2196.0,
+                    "Male": 984.0,
+                    "Female": 1212.0
+                },
+                "Divorced": {
+                    "Both sexes": 2051.0,
+                    "Male": 861.0,
+                    "Female": 1190.0
+                },
+                "Widowed": {
+                    "Both sexes": 3607.0,
+                    "Male": 979.0,
+                    "Female": 2628.0
+                }
+            },
+            "Westmeath": {
+                "All marital status": {
+                    "Both sexes": 96221.0,
+                    "Male": 47721.0,
+                    "Female": 48500.0
+                },
+                "Single": {
+                    "Both sexes": 50928.0,
+                    "Male": 26382.0,
+                    "Female": 24546.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 34889.0,
+                    "Male": 17322.0,
+                    "Female": 17567.0
+                },
+                "Re-married": {
+                    "Both sexes": 1361.0,
+                    "Male": 755.0,
+                    "Female": 606.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 56.0,
+                    "Male": 27.0,
+                    "Female": 29.0
+                },
+                "Separated": {
+                    "Both sexes": 2470.0,
+                    "Male": 1100.0,
+                    "Female": 1370.0
+                },
+                "Divorced": {
+                    "Both sexes": 2588.0,
+                    "Male": 1082.0,
+                    "Female": 1506.0
+                },
+                "Widowed": {
+                    "Both sexes": 3929.0,
+                    "Male": 1053.0,
+                    "Female": 2876.0
+                }
+            },
+            "Wexford": {
+                "All marital status": {
+                    "Both sexes": 163919.0,
+                    "Male": 80777.0,
+                    "Female": 83142.0
+                },
+                "Single": {
+                    "Both sexes": 85183.0,
+                    "Male": 43880.0,
+                    "Female": 41303.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 58357.0,
+                    "Male": 28938.0,
+                    "Female": 29419.0
+                },
+                "Re-married": {
+                    "Both sexes": 3225.0,
+                    "Male": 1754.0,
+                    "Female": 1471.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 96.0,
+                    "Male": 45.0,
+                    "Female": 51.0
+                },
+                "Separated": {
+                    "Both sexes": 4631.0,
+                    "Male": 2084.0,
+                    "Female": 2547.0
+                },
+                "Divorced": {
+                    "Both sexes": 5051.0,
+                    "Male": 2153.0,
+                    "Female": 2898.0
+                },
+                "Widowed": {
+                    "Both sexes": 7376.0,
+                    "Male": 1923.0,
+                    "Female": 5453.0
+                }
+            },
+            "Wicklow": {
+                "All marital status": {
+                    "Both sexes": 155851.0,
+                    "Male": 76564.0,
+                    "Female": 79287.0
+                },
+                "Single": {
+                    "Both sexes": 80559.0,
+                    "Male": 41208.0,
+                    "Female": 39351.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 57631.0,
+                    "Male": 28501.0,
+                    "Female": 29130.0
+                },
+                "Re-married": {
+                    "Both sexes": 2882.0,
+                    "Male": 1631.0,
+                    "Female": 1251.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 110.0,
+                    "Male": 59.0,
+                    "Female": 51.0
+                },
+                "Separated": {
+                    "Both sexes": 3870.0,
+                    "Male": 1689.0,
+                    "Female": 2181.0
+                },
+                "Divorced": {
+                    "Both sexes": 4645.0,
+                    "Male": 1857.0,
+                    "Female": 2788.0
+                },
+                "Widowed": {
+                    "Both sexes": 6154.0,
+                    "Male": 1619.0,
+                    "Female": 4535.0
+                }
+            },
+            "Clare": {
+                "All marital status": {
+                    "Both sexes": 127938.0,
+                    "Male": 62917.0,
+                    "Female": 65021.0
+                },
+                "Single": {
+                    "Both sexes": 65738.0,
+                    "Male": 33789.0,
+                    "Female": 31949.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 47699.0,
+                    "Male": 23605.0,
+                    "Female": 24094.0
+                },
+                "Re-married": {
+                    "Both sexes": 2051.0,
+                    "Male": 1142.0,
+                    "Female": 909.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 66.0,
+                    "Male": 31.0,
+                    "Female": 35.0
+                },
+                "Separated": {
+                    "Both sexes": 3047.0,
+                    "Male": 1360.0,
+                    "Female": 1687.0
+                },
+                "Divorced": {
+                    "Both sexes": 3573.0,
+                    "Male": 1500.0,
+                    "Female": 2073.0
+                },
+                "Widowed": {
+                    "Both sexes": 5764.0,
+                    "Male": 1490.0,
+                    "Female": 4274.0
+                }
+            },
+            "Cork City and Cork County": {
+                "All marital status": {
+                    "Both sexes": 584156.0,
+                    "Male": 288845.0,
+                    "Female": 295311.0
+                },
+                "Single": {
+                    "Both sexes": 312894.0,
+                    "Male": 161049.0,
+                    "Female": 151845.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 211171.0,
+                    "Male": 105053.0,
+                    "Female": 106118.0
+                },
+                "Re-married": {
+                    "Both sexes": 8316.0,
+                    "Male": 4581.0,
+                    "Female": 3735.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 307.0,
+                    "Male": 163.0,
+                    "Female": 144.0
+                },
+                "Separated": {
+                    "Both sexes": 11699.0,
+                    "Male": 5158.0,
+                    "Female": 6541.0
+                },
+                "Divorced": {
+                    "Both sexes": 15591.0,
+                    "Male": 6508.0,
+                    "Female": 9083.0
+                },
+                "Widowed": {
+                    "Both sexes": 24178.0,
+                    "Male": 6333.0,
+                    "Female": 17845.0
+                }
+            },
+            "Kerry": {
+                "All marital status": {
+                    "Both sexes": 156458.0,
+                    "Male": 77387.0,
+                    "Female": 79071.0
+                },
+                "Single": {
+                    "Both sexes": 79628.0,
+                    "Male": 41449.0,
+                    "Female": 38179.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 58539.0,
+                    "Male": 29078.0,
+                    "Female": 29461.0
+                },
+                "Re-married": {
+                    "Both sexes": 2465.0,
+                    "Male": 1326.0,
+                    "Female": 1139.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 83.0,
+                    "Male": 42.0,
+                    "Female": 41.0
+                },
+                "Separated": {
+                    "Both sexes": 3688.0,
+                    "Male": 1640.0,
+                    "Female": 2048.0
+                },
+                "Divorced": {
+                    "Both sexes": 4453.0,
+                    "Male": 1862.0,
+                    "Female": 2591.0
+                },
+                "Widowed": {
+                    "Both sexes": 7602.0,
+                    "Male": 1990.0,
+                    "Female": 5612.0
+                }
+            },
+            "Limerick City and County": {
+                "All marital status": {
+                    "Both sexes": 209536.0,
+                    "Male": 104452.0,
+                    "Female": 105084.0
+                },
+                "Single": {
+                    "Both sexes": 113655.0,
+                    "Male": 59265.0,
+                    "Female": 54390.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 74267.0,
+                    "Male": 37065.0,
+                    "Female": 37202.0
+                },
+                "Re-married": {
+                    "Both sexes": 2543.0,
+                    "Male": 1380.0,
+                    "Female": 1163.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 97.0,
+                    "Male": 53.0,
+                    "Female": 44.0
+                },
+                "Separated": {
+                    "Both sexes": 4884.0,
+                    "Male": 2140.0,
+                    "Female": 2744.0
+                },
+                "Divorced": {
+                    "Both sexes": 4828.0,
+                    "Male": 2060.0,
+                    "Female": 2768.0
+                },
+                "Widowed": {
+                    "Both sexes": 9262.0,
+                    "Male": 2489.0,
+                    "Female": 6773.0
+                }
+            },
+            "Tipperary": {
+                "All marital status": {
+                    "Both sexes": 167895.0,
+                    "Male": 83639.0,
+                    "Female": 84256.0
+                },
+                "Single": {
+                    "Both sexes": 87084.0,
+                    "Male": 45752.0,
+                    "Female": 41332.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 61423.0,
+                    "Male": 30592.0,
+                    "Female": 30831.0
+                },
+                "Re-married": {
+                    "Both sexes": 2418.0,
+                    "Male": 1321.0,
+                    "Female": 1097.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 62.0,
+                    "Male": 30.0,
+                    "Female": 32.0
+                },
+                "Separated": {
+                    "Both sexes": 4250.0,
+                    "Male": 1920.0,
+                    "Female": 2330.0
+                },
+                "Divorced": {
+                    "Both sexes": 4514.0,
+                    "Male": 1950.0,
+                    "Female": 2564.0
+                },
+                "Widowed": {
+                    "Both sexes": 8144.0,
+                    "Male": 2074.0,
+                    "Female": 6070.0
+                }
+            },
+            "Waterford City and County": {
+                "All marital status": {
+                    "Both sexes": 127363.0,
+                    "Male": 63095.0,
+                    "Female": 64268.0
+                },
+                "Single": {
+                    "Both sexes": 67721.0,
+                    "Male": 35130.0,
+                    "Female": 32591.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 44807.0,
+                    "Male": 22246.0,
+                    "Female": 22561.0
+                },
+                "Re-married": {
+                    "Both sexes": 2074.0,
+                    "Male": 1165.0,
+                    "Female": 909.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 80.0,
+                    "Male": 45.0,
+                    "Female": 35.0
+                },
+                "Separated": {
+                    "Both sexes": 3264.0,
+                    "Male": 1444.0,
+                    "Female": 1820.0
+                },
+                "Divorced": {
+                    "Both sexes": 3660.0,
+                    "Male": 1492.0,
+                    "Female": 2168.0
+                },
+                "Widowed": {
+                    "Both sexes": 5757.0,
+                    "Male": 1573.0,
+                    "Female": 4184.0
+                }
+            },
+            "Galway City": {
+                "All marital status": {
+                    "Both sexes": 84414.0,
+                    "Male": 40414.0,
+                    "Female": 44000.0
+                },
+                "Single": {
+                    "Both sexes": 52180.0,
+                    "Male": 25426.0,
+                    "Female": 26754.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 24428.0,
+                    "Male": 12132.0,
+                    "Female": 12296.0
+                },
+                "Re-married": {
+                    "Both sexes": 949.0,
+                    "Male": 526.0,
+                    "Female": 423.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 74.0,
+                    "Male": 47.0,
+                    "Female": 27.0
+                },
+                "Separated": {
+                    "Both sexes": 1741.0,
+                    "Male": 704.0,
+                    "Female": 1037.0
+                },
+                "Divorced": {
+                    "Both sexes": 2263.0,
+                    "Male": 877.0,
+                    "Female": 1386.0
+                },
+                "Widowed": {
+                    "Both sexes": 2779.0,
+                    "Male": 702.0,
+                    "Female": 2077.0
+                }
+            },
+            "Galway County": {
+                "All marital status": {
+                    "Both sexes": 193323.0,
+                    "Male": 96520.0,
+                    "Female": 96803.0
+                },
+                "Single": {
+                    "Both sexes": 98399.0,
+                    "Male": 51800.0,
+                    "Female": 46599.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 75720.0,
+                    "Male": 37596.0,
+                    "Female": 38124.0
+                },
+                "Re-married": {
+                    "Both sexes": 2493.0,
+                    "Male": 1409.0,
+                    "Female": 1084.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 86.0,
+                    "Male": 38.0,
+                    "Female": 48.0
+                },
+                "Separated": {
+                    "Both sexes": 4063.0,
+                    "Male": 1884.0,
+                    "Female": 2179.0
+                },
+                "Divorced": {
+                    "Both sexes": 4364.0,
+                    "Male": 1834.0,
+                    "Female": 2530.0
+                },
+                "Widowed": {
+                    "Both sexes": 8198.0,
+                    "Male": 1959.0,
+                    "Female": 6239.0
+                }
+            },
+            "Leitrim": {
+                "All marital status": {
+                    "Both sexes": 35199.0,
+                    "Male": 17553.0,
+                    "Female": 17646.0
+                },
+                "Single": {
+                    "Both sexes": 17859.0,
+                    "Male": 9461.0,
+                    "Female": 8398.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 13081.0,
+                    "Male": 6494.0,
+                    "Female": 6587.0
+                },
+                "Re-married": {
+                    "Both sexes": 628.0,
+                    "Male": 330.0,
+                    "Female": 298.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 20.0,
+                    "Male": 7.0,
+                    "Female": 13.0
+                },
+                "Separated": {
+                    "Both sexes": 843.0,
+                    "Male": 407.0,
+                    "Female": 436.0
+                },
+                "Divorced": {
+                    "Both sexes": 966.0,
+                    "Male": 428.0,
+                    "Female": 538.0
+                },
+                "Widowed": {
+                    "Both sexes": 1802.0,
+                    "Male": 426.0,
+                    "Female": 1376.0
+                }
+            },
+            "Mayo": {
+                "All marital status": {
+                    "Both sexes": 137970.0,
+                    "Male": 68392.0,
+                    "Female": 69578.0
+                },
+                "Single": {
+                    "Both sexes": 69288.0,
+                    "Male": 36429.0,
+                    "Female": 32859.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 52670.0,
+                    "Male": 26053.0,
+                    "Female": 26617.0
+                },
+                "Re-married": {
+                    "Both sexes": 2099.0,
+                    "Male": 1165.0,
+                    "Female": 934.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 63.0,
+                    "Male": 30.0,
+                    "Female": 33.0
+                },
+                "Separated": {
+                    "Both sexes": 3246.0,
+                    "Male": 1455.0,
+                    "Female": 1791.0
+                },
+                "Divorced": {
+                    "Both sexes": 3520.0,
+                    "Male": 1490.0,
+                    "Female": 2030.0
+                },
+                "Widowed": {
+                    "Both sexes": 7084.0,
+                    "Male": 1770.0,
+                    "Female": 5314.0
+                }
+            },
+            "Roscommon": {
+                "All marital status": {
+                    "Both sexes": 70259.0,
+                    "Male": 35170.0,
+                    "Female": 35089.0
+                },
+                "Single": {
+                    "Both sexes": 35031.0,
+                    "Male": 18612.0,
+                    "Female": 16419.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 26904.0,
+                    "Male": 13414.0,
+                    "Female": 13490.0
+                },
+                "Re-married": {
+                    "Both sexes": 1185.0,
+                    "Male": 623.0,
+                    "Female": 562.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 37.0,
+                    "Male": 16.0,
+                    "Female": 21.0
+                },
+                "Separated": {
+                    "Both sexes": 1778.0,
+                    "Male": 824.0,
+                    "Female": 954.0
+                },
+                "Divorced": {
+                    "Both sexes": 1857.0,
+                    "Male": 817.0,
+                    "Female": 1040.0
+                },
+                "Widowed": {
+                    "Both sexes": 3467.0,
+                    "Male": 864.0,
+                    "Female": 2603.0
+                }
+            },
+            "Sligo": {
+                "All marital status": {
+                    "Both sexes": 70198.0,
+                    "Male": 34529.0,
+                    "Female": 35669.0
+                },
+                "Single": {
+                    "Both sexes": 36873.0,
+                    "Male": 19004.0,
+                    "Female": 17869.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 25594.0,
+                    "Male": 12701.0,
+                    "Female": 12893.0
+                },
+                "Re-married": {
+                    "Both sexes": 916.0,
+                    "Male": 519.0,
+                    "Female": 397.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 31.0,
+                    "Male": 14.0,
+                    "Female": 17.0
+                },
+                "Separated": {
+                    "Both sexes": 1707.0,
+                    "Male": 735.0,
+                    "Female": 972.0
+                },
+                "Divorced": {
+                    "Both sexes": 1763.0,
+                    "Male": 729.0,
+                    "Female": 1034.0
+                },
+                "Widowed": {
+                    "Both sexes": 3314.0,
+                    "Male": 827.0,
+                    "Female": 2487.0
+                }
+            },
+            "Cavan": {
+                "All marital status": {
+                    "Both sexes": 81704.0,
+                    "Male": 41060.0,
+                    "Female": 40644.0
+                },
+                "Single": {
+                    "Both sexes": 42564.0,
+                    "Male": 22557.0,
+                    "Female": 20007.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 30417.0,
+                    "Male": 15206.0,
+                    "Female": 15211.0
+                },
+                "Re-married": {
+                    "Both sexes": 1248.0,
+                    "Male": 656.0,
+                    "Female": 592.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 53.0,
+                    "Male": 27.0,
+                    "Female": 26.0
+                },
+                "Separated": {
+                    "Both sexes": 1874.0,
+                    "Male": 837.0,
+                    "Female": 1037.0
+                },
+                "Divorced": {
+                    "Both sexes": 2077.0,
+                    "Male": 907.0,
+                    "Female": 1170.0
+                },
+                "Widowed": {
+                    "Both sexes": 3471.0,
+                    "Male": 870.0,
+                    "Female": 2601.0
+                }
+            },
+            "Donegal": {
+                "All marital status": {
+                    "Both sexes": 167084.0,
+                    "Male": 82795.0,
+                    "Female": 84289.0
+                },
+                "Single": {
+                    "Both sexes": 85217.0,
+                    "Male": 44475.0,
+                    "Female": 40742.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 63615.0,
+                    "Male": 31498.0,
+                    "Female": 32117.0
+                },
+                "Re-married": {
+                    "Both sexes": 2236.0,
+                    "Male": 1223.0,
+                    "Female": 1013.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 70.0,
+                    "Male": 35.0,
+                    "Female": 35.0
+                },
+                "Separated": {
+                    "Both sexes": 4078.0,
+                    "Male": 1843.0,
+                    "Female": 2235.0
+                },
+                "Divorced": {
+                    "Both sexes": 4207.0,
+                    "Male": 1767.0,
+                    "Female": 2440.0
+                },
+                "Widowed": {
+                    "Both sexes": 7661.0,
+                    "Male": 1954.0,
+                    "Female": 5707.0
+                }
+            },
+            "Monaghan": {
+                "All marital status": {
+                    "Both sexes": 65288.0,
+                    "Male": 32894.0,
+                    "Female": 32394.0
+                },
+                "Single": {
+                    "Both sexes": 33844.0,
+                    "Male": 18123.0,
+                    "Female": 15721.0
+                },
+                "Married (first marriage)": {
+                    "Both sexes": 24710.0,
+                    "Male": 12348.0,
+                    "Female": 12362.0
+                },
+                "Re-married": {
+                    "Both sexes": 653.0,
+                    "Male": 320.0,
+                    "Female": 333.0
+                },
+                "Registered Same-Sex Civil Partnership": {
+                    "Both sexes": 21.0,
+                    "Male": 10.0,
+                    "Female": 11.0
+                },
+                "Separated": {
+                    "Both sexes": 1518.0,
+                    "Male": 684.0,
+                    "Female": 834.0
+                },
+                "Divorced": {
+                    "Both sexes": 1621.0,
+                    "Male": 646.0,
+                    "Female": 975.0
+                },
+                "Widowed": {
+                    "Both sexes": 2921.0,
+                    "Male": 763.0,
+                    "Female": 2158.0
+                }
+            }
+        }
+    }
+}
