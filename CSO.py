@@ -8,7 +8,7 @@ urlBegining = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDat
 urlEnd = "/JSON-stat/2.0/en"
 
 def getAllAsFile(dataset):
-    with open("cso_test.json", "wt") as fp:
+    with open("json_Files/cso_test.json", "wt") as fp:
         print(json.dumps(getAll(dataset)), file=fp)
 
 def getAll(dataset):   
@@ -17,12 +17,9 @@ def getAll(dataset):
     return response.json()
 
 def getFormattedAsFile(dataset):
-    with open("cso-formatted.json", "wt") as fp:
+    with open("json_Files/cso-formatted.json", "wt") as fp:
         print(json.dumps(getFormatted(dataset)), file=fp)
 
-#df = pd.read_json('cso-formatted.json')
-#df
-  
 
 def getFormatted(dataset):
     data = getAll(dataset)
