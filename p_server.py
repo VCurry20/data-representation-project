@@ -11,15 +11,21 @@ def initial():
 
 @app.route('/')
 def getAll():
-    if not g.user:
-        return jsonify(populationDAO.getAll())
+    return jsonify(populationDAO.getAll())
 
-@app.route('/', methods = ['POST'])
+# get all data on to test page
+@app.route('/test')
+def getAll2():
+    return jsonify(populationDAO.getAll())
 
+# find by id
+@app.route('/test/<int:id>')
+def findbyid(id):
+    return jsonify(populationDAO.findByID(id))
+
+# create
+@app.route('/test', methods = ['POST'])
 def create():
-    
-    if not request.json:
-        abort(400)
     census = {
     "id": request.json['id'], 
     "census_Year": request.json["census_Year"], 
@@ -31,7 +37,44 @@ def create():
     values = (census["id"],census["census_Year"],census["location"],census["marital_Status"],census["marital_Status"],census["population"])
     new_data = populationDAO.create(values)
     census["id"] = new_data
-    return jsonify(values)
+    return request.jsonify(values)
+
+
+# update
+@app.route('/test/<int:id>', methods = ['PUT'])
+def update(id):
+    return jsonify(populationDAO.update(id))
+
+# delete
+@app.route('/test/<int:id>', methods = ['DELETE'])
+def delete(id):
+    return "served by delete by id with id" + str(id)
+
+
+
+
+
+
+
+#@app.route('/', methods = ['POST'])
+
+
+#def create():
+#    
+#    if not request.json:
+#        abort(400)
+#    census = {
+#    "id": request.json['id'], 
+#    "census_Year": request.json["census_Year"], 
+#    "location": request.json["location"],
+#    "marital_Status": request.json["marital_Status"],
+#    "gender": request.json["marital_Status"],
+#    "population": request.json["population"],
+#    }
+#    values = (census["id"],census["census_Year"],census["location"],census["marital_Status"],census["marital_Status"],census["population"])
+#    new_data = populationDAO.create(values)
+#    census["id"] = new_data
+#    return jsonify(values)
 
 if __name__ == "__main__":
     app.run(debug=True)
