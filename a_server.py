@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request, abort, render_template, session, url_for, g, redirect
 
-from DAO import populationDAO ## should this be the capital one!?
+from DAO import populationDAO 
 
 app = Flask(__name__)
 
