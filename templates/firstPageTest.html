@@ -179,27 +179,24 @@
             var rowElement = tableElement.insertRow(-1)
             
             rowElement.setAttribute('id', formData.id)
-            
-            var cell1 = rowElement.insertCell(0);
-            cell1.innerHTML = formData.id
-            var cell2 = rowElement.insertCell(1);
-            cell2.innerHTML = formData.census_Year
-            var cell3 = rowElement.insertCell(2);
-            cell3.innerHTML = formData.location
-            var cell4 = rowElement.insertCell(3);
-            cell4.innerHTML = formData.marital_Status
-            var cell5 = rowElement.insertCell(4);
-            cell5.innerHTML = formData.gender
-            var cell6 = rowElement.insertCell(5);
-            cell6.innerHTML = formData.population
 
-            
-            var cell7 = rowElement.insertCell(6);
-            cell7.innerHTML = '<button onclick="showUpdate(this)">Update</button>'
-            var cell8 = rowElement.insertCell(7);
-            cell8.innerHTML = '<button onclick=doDelete(this)>delete</button>'
+                    
+            Object.keys(formData).forEach(key => {
+                var cell = rowElement.insertCell();
+                cell.innerHTML = formData[key];
+            });
 
+            // Add buttons for Update and Delete
+            var cellUpdate = rowElement.insertCell();
+            cellUpdate.innerHTML = '<button onclick="showUpdate(this)">Update</button>';
+
+            var cellDelete = rowElement.insertCell();
+            cellDelete.innerHTML = '<button onclick="doDelete(this)">Delete</button>';
         }
+            
+
+
+        
         function getDataFromRow(rowElement){
             var formData ={}
             formData.id  = rowElement.cells[0].firstChild.textContent
@@ -220,34 +217,91 @@
             rowElement.cells[5].firstChild.textContent= formData.population
     }
 
+
+        function fetchDataAndDisplay() {
+            fetch('/api/population')
+                .then(response => response.json())
+                .then(data => {
+                    console.log('Received data:', data);
+                    data.forEach(formData => addToTable(formData));
+                })
+                .catch(error => console.error('Error:', error));
+        }
+
+        // Call the function when the page is loaded
+        document.addEventListener('DOMContentLoaded', fetchDataAndDisplay);
+
+
+
+    
         function doCreate(){
             console.log("creating a instance")
             formData = getDataFromForm()
-            console.log(formData)
-            addToTable(formData)
-            showViewall()
-            clearForm()
-            
+            fetch('/api/population', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(formData),
+            })
+            .then(response => response.json())
+            .then(data => {
+                
+                formData.id = data.id;
+                addToTable(formData);
+                showViewall();
+                clearForm();
+            })
+            .catch(error => console.error('Error:', error));
         }
 
-        function doUpdate(){
-            formData= getDataFromForm()
-            //console.log(form)
-            var rowElement = document.getElementById(formData.id)
-            setDataInRow(rowElement, formData)
+        
+        // Function to update an existing population record
+        function doUpdate() {
+            var formData = getDataFromForm();
+            console.log('Before fetch');
 
-            showViewall()
-            clearForm()
+            fetch('/api/population/' + formData.id, {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(formData),
+            })
+            .then(response => {
+                // Assuming the response includes a success message
+                if (response.ok) {
+                    var rowElement = document.getElementById(formData.id);
+                    setDataInRow(rowElement, formData);
+                    showViewall();
+                    clearForm();
+                } else {
+                    console.error('Error:', response.statusText);
+                }
+            })
+            .catch(error => console.error('Error:', error));
         }
 
-        function doDelete(buttonElement){
-            console.log("in delete")
-            var tableElement = document.getElementById('dataTable')
-            var index = buttonElement.parentNode.parentNode.rowIndex;
-            tableElement.deleteRow(index);
+        // Function to delete a population record
+        function doDelete(buttonElement) {
+            var rowElement = buttonElement.parentNode.parentNode;
+            var id = rowElement.cells[0].textContent;
+            console.log('Before fetch2');
 
+            fetch('/api/population/' + id, {
+                method: 'DELETE',
+            })
+            .then(response => {
+                // Assuming the response includes a success message
+                if (response.ok) {
+                    var index = rowElement.rowIndex;
+                    rowElement.parentNode.deleteRow(index);
+                } else {
+                    console.error('Error:', response.statusText);
+                }
+            })
+            .catch(error => console.error('Error:', error));
         }
-
 
 
         

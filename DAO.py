@@ -1,11 +1,13 @@
 # put all the individual SQL command python scripts into one
 # use functions to store the scripts
 
+# import SQL Connector
 import mysql.connector
-# sql="insert into population (census_year, county_and_city, marital_status, sex, population) values (%s,%s,%s,%s,%s)"
 
+# import config file
 import config as cfg
 
+# set class
 class PopulationDAO:
     connection = ""
     cursor =''
@@ -23,7 +25,7 @@ class PopulationDAO:
         self.password= cfg.mysql['password']
         self.database= cfg.mysql['database']
 
-    
+    # define connection
     def getCursor(self): 
         self.connection = mysql.connector.connect(
             host=self.host,
@@ -34,13 +36,15 @@ class PopulationDAO:
         self.cursor = self.connection.cursor()
         return self.cursor
     
+    # define close connection
     def closeAll(self):
         self.connection.close()
         self.cursor.close()
     
+    # define create
     def create(self, values):
         cursor = self.getCursor()
-        sql="insert into population (census_year, county_and_city, marital_status, sex, population) values (%s,%s,%s,%s,%s)"
+        sql="insert into population (id,census_year, county_and_city, marital_status, sex, population) values (%s,%s,%s,%s,%s,%s)"
         cursor.execute(sql, values)
 
         self.connection.commit()
@@ -48,6 +52,7 @@ class PopulationDAO:
         self.closeAll()
         return newid
     
+    # define get all
     def getAll(self):
             cursor = self.getCursor()
             sql="select * from population"
@@ -57,7 +62,7 @@ class PopulationDAO:
             return result
             
 
-
+    # define get by id
     def findByID(self, id):
             cursor = self.getCursor()
             sql="select * from population where id = %s"
@@ -68,18 +73,18 @@ class PopulationDAO:
             self.closeAll()
             return result
               
-        
+
+    # define update   
     def update(self, values):
             cursor = self.getCursor()
-            # sql="insert into population (census_year, county_and_city, marital_status, sex, population) values (%s,%s,%s,%s,%s)"
             sql="update population set census_year= %s, county_and_city=%s marital_status= %s sex=%s population=%s where id = %s"
-            #values = ("Joe", 22, 1)
+
             cursor.execute(sql, values)
             self.connection.commit()
             self.closeAll()
 
-              
 
+    # define delete
     def delete(self, id):
             cursor = self.getCursor()
             sql="delete from population where id = %s"

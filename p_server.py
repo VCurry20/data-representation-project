@@ -1,80 +1,40 @@
-from flask import Flask, jsonify, request, abort, render_template, session, url_for, g, redirect
+from flask import Flask, render_template, request, jsonify
+from DAO import populationDAO
 
-from DAO import populationDAO 
-
-app = Flask(__name__, static_url_path='', static_folder='staticPages', template_folder="webPages")
-
-@app.route('/')
-def initial():
-    return render_template('/firstpage.html')
-
+app = Flask(__name__)
 
 @app.route('/')
-def getAll():
-    return jsonify(populationDAO.getAll())
+def index():
+    return render_template('/firstPageTest.html')
 
-# get all data on to test page
-@app.route('/test')
-def getAll2():
-    return jsonify(populationDAO.getAll())
+@app.route('/api/population', methods=['POST'])
+def create_population():
+    data = request.get_json()
+    values = (data['id'], data['census_Year'], data['location'], data['marital_Status'], data['gender'], data['population'])
+    new_id = populationDAO.create(values)
+    return jsonify({'id': new_id})
 
-# find by id
-@app.route('/test/<int:id>')
-def findbyid(id):
-    return jsonify(populationDAO.findByID(id))
+@app.route('/api/population', methods=['GET'])
+def get_all_population():
+    result = populationDAO.getAll()
+    return jsonify(result)
 
-# create
-@app.route('/test', methods = ['POST'])
-def create():
-    census = {
-    "id": request.json['id'], 
-    "census_Year": request.json["census_Year"], 
-    "location": request.json["location"],
-    "marital_Status": request.json["marital_Status"],
-    "gender": request.json["marital_Status"],
-    "population": request.json["population"],
-    }
-    values = (census["id"],census["census_Year"],census["location"],census["marital_Status"],census["marital_Status"],census["population"])
-    new_data = populationDAO.create(values)
-    census["id"] = new_data
-    return request.jsonify(values)
+@app.route('/api/population/<int:id>', methods=['GET'])
+def get_population_by_id(id):
+    result = populationDAO.findByID(id)
+    return jsonify(result)
 
+@app.route('/api/population/<int:id>', methods=['PUT'])
+def update_population(id):
+    data = request.get_json()
+    values = (data['id'], data['census_Year'], data['location'], data['marital_Status'], data['gender'], data['population'], id)
+    populationDAO.update(values)
+    return jsonify({'message': 'Record updated successfully'})
 
-# update
-@app.route('/test/<int:id>', methods = ['PUT'])
-def update(id):
-    return jsonify(populationDAO.update(id))
+@app.route('/api/population/<int:id>', methods=['DELETE'])
+def delete_population(id):
+    populationDAO.delete(id)
+    return jsonify({'message': 'Record deleted successfully'})
 
-# delete
-@app.route('/test/<int:id>', methods = ['DELETE'])
-def delete(id):
-    return "served by delete by id with id" + str(id)
-
-
-
-
-
-
-
-#@app.route('/', methods = ['POST'])
-
-
-#def create():
-#    
-#    if not request.json:
-#        abort(400)
-#    census = {
-#    "id": request.json['id'], 
-#    "census_Year": request.json["census_Year"], 
-#    "location": request.json["location"],
-#    "marital_Status": request.json["marital_Status"],
-#    "gender": request.json["marital_Status"],
-#    "population": request.json["population"],
-#    }
-#    values = (census["id"],census["census_Year"],census["location"],census["marital_Status"],census["marital_Status"],census["population"])
-#    new_data = populationDAO.create(values)
-#    census["id"] = new_data
-#    return jsonify(values)
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)
